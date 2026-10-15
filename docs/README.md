@@ -1,1 +1,1 @@
-Project proposal and planning documents.
+Project draft proposal and planning documents.
