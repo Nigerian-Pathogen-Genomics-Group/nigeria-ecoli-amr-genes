@@ -1,0 +1,195 @@
+Row,Block,BioSample,Assembly (GCA),Isolate (NCBI ID),Strain,Location,Isolation source,Done by,BioProject,How you found it,"Publication (DOI or PubMed ID, or ""none found"")",Notes
+1,A,SAMN07198922,GCA_002284675.1,PDT000239092.1,104,Nigeria: Lagos,chicken,Peace,PRJNA389301,https://www.ncbi.nlm.nih.gov/pathogens/isolates/#PDT000239092.1,https://pubmed.ncbi.nlm.nih.gov/28983000/,
+2,A,SAMN07198923,GCA_002284665.1,PDT000239093.1,131i,Nigeria: Lagos,chicken,Peace,PRJNA389301,https://www.ncbi.nlm.nih.gov/pathogens/isolates/#PDT000239092.1,https://pubmed.ncbi.nlm.nih.gov/28983000/,
+3,A,SAMN07198924,GCA_002284685.1,PDT000239094.1,141,Nigeria: Lagos,chicken,Peace,PRJNA389301,https://www.ncbi.nlm.nih.gov/pathogens/isolates/#PDT000239092.1,https://pubmed.ncbi.nlm.nih.gov/28983000/,
+4,A,SAMN13268570,GCA_009720065.1,PDT000637571.1,TYBEAR H45,Nigeria: Lagos,urine,Peace,PRJNA589205,https://www.ncbi.nlm.nih.gov/pathogens/isolates/#PDT000239092.1,https://pmc.ncbi.nlm.nih.gov/articles/PMC7180271/,
+5,A,SAMN13268568,GCA_009720085.1,PDT000637572.1,H43iii,Nigeria: Lagos,urine,Peace,PRJNA589201,https://www.ncbi.nlm.nih.gov/pathogens/isolates/#PDT000637572.1,https://pmc.ncbi.nlm.nih.gov/articles/PMC7180271/,
+6,A,SAMN13268567,GCA_009720095.1,PDT000637573.1,H43ii,Nigeria: Lagos,urine,Peace,PRJNA589200,https://www.ncbi.nlm.nih.gov/pathogens/isolates/#PDT000637573.1,https://pmc.ncbi.nlm.nih.gov/articles/PMC7180271/,
+7,A,SAMN11056430,GCA_009729995.1,PDT000640365.1,FDAARGOS_715,Nigeria: Ibadan,clinical isolate,Peace,"	PRJNA231221",https://www.ncbi.nlm.nih.gov/pathogens/isolates/#PDT000640365.1,https://pubmed.ncbi.nlm.nih.gov/31346170/,
+8,A,SAMN11056431,GCA_012273455.1,PDT000721760.1,FDAARGOS_716,Nigeria: Ibadan,clinical isolate,Peace,PRJNA231221,https://www.ncbi.nlm.nih.gov/pathogens/isolates/#PDT000721760.1,https://pubmed.ncbi.nlm.nih.gov/31346170/,
+9,A,SAMN11056404,GCA_013364455.1,PDT000770894.1,FDAARGOS_689,Nigeria: Ibadan,clinical isolate,Peace,PRJNA231221,https://www.ncbi.nlm.nih.gov/pathogens/isolates/#PDT000770894.1,https://pubmed.ncbi.nlm.nih.gov/31346170/,
+10,A,SAMN11056405,GCA_013367795.1,PDT000770936.1,FDAARGOS_690,Nigeria: Ibadan,clinical isolate,Peace,PRJNA231221,https://www.ncbi.nlm.nih.gov/pathogens/isolates/#PDT000770936.1,https://pubmed.ncbi.nlm.nih.gov/31346170/,
+11,A,SAMN11056407,GCA_013367815.1,PDT000770937.1,FDAARGOS_692,Nigeria: Ibadan,clinical isolate,Peace,PRJNA231221,https://www.ncbi.nlm.nih.gov/pathogens/isolates/#PDT000770937.1,https://pubmed.ncbi.nlm.nih.gov/31346170/,
+12,A,SAMN11056429,GCA_013391325.1,PDT000784443.1,FDAARGOS_714,Nigeria: Ibadan,clinical isolate,Peace,PRJNA231221,https://www.ncbi.nlm.nih.gov/pathogens/isolates/#PDT000784443.1,https://pubmed.ncbi.nlm.nih.gov/31346170/,
+13,A,SAMN11056428,GCA_013391345.1,PDT000784444.1,FDAARGOS_713,Nigeria: Ibadan,clinical isolate,Peace,PRJNA231221,https://www.ncbi.nlm.nih.gov/pathogens/isolates/#PDT000784444.1,https://pubmed.ncbi.nlm.nih.gov/31346170/,
+14,A,SAMN11855606,GCA_019583635.1,PDT001109112.1,EC_83,Nigeria: Ibadan,water from electronic waste dumpsite,Peace,PRJNA544810,https://www.ncbi.nlm.nih.gov/pathogens/isolates/#PDT001109112.1,none found,I didn't find a publication but google search returns this result  https://figshare.com/articles/dataset/Supplementary_Table_1_Table_S1_Properties_of_Enterobacter_roggenkampii_genomes/33346248 
+15,A,SAMN11855604,GCA_019583665.1,PDT001109113.1,EC_81,Nigeria: Lagos,water from electronic waste dumpsite,Peace,"
+PRJNA544810",https://www.ncbi.nlm.nih.gov/pathogens/isolates/#PDT001109113.1,none found,Same as above
+16,A,SAMN11855603,GCA_019583735.1,PDT001109114.1,EC_80,Nigeria: Lagos,water from electronic waste dumpsite,Peace,"
+PRJNA544810",https://www.ncbi.nlm.nih.gov/pathogens/isolates/#PDT001109114.1,none found,Same as above
+17,A,SAMN11855601,GCA_019583755.1,PDT001109115.1,EC_78,Nigeria: Lagos,water from electronic waste dumpsite,Peace,"
+PRJNA544810",https://www.ncbi.nlm.nih.gov/pathogens/isolates/#PDT001109115.1,none found,Same as above
+18,A,SAMN11855602,GCA_019583815.1,PDT001109116.1,EC_79,Nigeria: Lagos,water from electronic waste dumpsite,Peace,"
+PRJNA544810",https://www.ncbi.nlm.nih.gov/pathogens/isolates/#PDT001109116.1,none found,Same as above
+19,A,SAMN11855600,GCA_019583835.1,PDT001109117.1,EC_77,Nigeria: Lagos,water from electronic waste dumpsite,Peace,"
+PRJNA544810",https://www.ncbi.nlm.nih.gov/pathogens/isolates/#PDT001109117.1,none found,Same as above
+20,A,SAMN11855596,GCA_019583855.1,PDT001109118.1,EC_73,Nigeria: Lagos,water from electronic waste dumpsite,Peace,"
+PRJNA544810",https://www.ncbi.nlm.nih.gov/pathogens/isolates/#PDT001109118.1,none found,Same as above
+21,A,SAMN11855597,GCA_019583875.1,PDT001109119.1,EC_74,Nigeria: Lagos,water from electronic waste dumpsite,Peace,"
+PRJNA544810",https://www.ncbi.nlm.nih.gov/pathogens/isolates/#PDT001109119.1,none found,Same as above
+22,A,SAMN11855595,GCA_019583965.1,PDT001109120.1,EC_72,Nigeria: Lagos,water from electronic waste dumpsite,Peace,"
+PRJNA544810",https://www.ncbi.nlm.nih.gov/pathogens/isolates/#PDT001109120.1,none found,Same as above
+23,A,SAMN11855592,GCA_019583955.1,PDT001109121.1,EC_69,Nigeria: Lagos,water from electronic waste dumpsite,Peace,"
+PRJNA544810",https://www.ncbi.nlm.nih.gov/pathogens/isolates/#PDT001109121.1,none found,Same as above
+24,A,SAMN11855593,GCA_019583995.1,PDT001109122.1,EC_70,Nigeria: Lagos,water from electronic waste dumpsite,Peace,"
+PRJNA544810",https://www.ncbi.nlm.nih.gov/pathogens/isolates/#PDT001109122.1,none found,Same as above
+25,A,SAMN11855591,GCA_019584095.1,PDT001109123.1,EC_68,Nigeria: Lagos,water from electronic waste dumpsite,Peace,"
+PRJNA544810",https://www.ncbi.nlm.nih.gov/pathogens/isolates/#PDT001109123.1,none found,Same as above
+26,A,SAMN11855588,GCA_019584115.1,PDT001109124.1,EC_65,Nigeria: Lagos,water from electronic waste dumpsite,Peace,"
+PRJNA544810",https://www.ncbi.nlm.nih.gov/pathogens/isolates/#PDT001109124.1,none found,Same as above
+27,A,SAMN11855590,GCA_019584135.1,PDT001109125.1,EC_67,Nigeria: Lagos,water from electronic waste dumpsite,Peace,"
+PRJNA544810",https://www.ncbi.nlm.nih.gov/pathogens/isolates/#PDT001109125.1,none found,Same as above
+28,A,SAMN11855598,GCA_019584195.1,PDT001109126.1,EC_75,Nigeria: Lagos,water from electronic waste dumpsite,Peace,"
+PRJNA544810",https://www.ncbi.nlm.nih.gov/pathogens/isolates/#PDT001109126.1,none found,Same as above
+29,A,SAMN11855605,GCA_019584205.1,PDT001109127.1,EC_82,Nigeria: Ibadan,water from electronic waste dumpsite,Peace,"
+PRJNA544810",https://www.ncbi.nlm.nih.gov/pathogens/isolates/#PDT001109127.1,none found,Same as above
+30,A,SAMN11855582,GCA_019584345.1,PDT001109128.1,EC_59,Nigeria: Ibadan,water from electronic waste dumpsite,Peace,"
+PRJNA544810",https://www.ncbi.nlm.nih.gov/pathogens/isolates/#PDT001109128.1,none found,Same as above
+31,A,SAMN11855579,GCA_019584405.1,PDT001109129.1,EC_56,Nigeria: Ibadan,water from electronic waste dumpsite,Peace,"
+PRJNA544810",https://www.ncbi.nlm.nih.gov/pathogens/isolates/#PDT001109129.1,none found,Same as above
+32,A,SAMN11855577,GCA_019584445.1,PDT001109130.1,EC_54,Nigeria: Ibadan,water from electronic waste dumpsite,Peace,"
+PRJNA544810",https://www.ncbi.nlm.nih.gov/pathogens/isolates/#PDT001109130.1,none found,Same as above
+33,A,SAMN11855568,GCA_019584555.1,PDT001109131.1,EC_45,Nigeria: Ibadan,water from electronic waste dumpsite,Peace,"
+PRJNA544810",https://www.ncbi.nlm.nih.gov/pathogens/isolates/#PDT001109131.1,none found,Same as above
+34,A,SAMN11855567,GCA_019584585.1,PDT001109132.1,EC_44,Nigeria: Ibadan,water from electronic waste dumpsite,Peace,"
+PRJNA544810",https://www.ncbi.nlm.nih.gov/pathogens/isolates/#PDT001109132.1,none found,Same as above
+35,A,SAMN11855564,GCA_019584645.1,PDT001109133.1,EC_41,Nigeria: Ibadan,soil from electronic waste dumpsite,Peace,"
+PRJNA544810",https://www.ncbi.nlm.nih.gov/pathogens/isolates/#PDT001109133.1,none found,Same as above
+36,A,SAMN11855563,GCA_019584665.1,PDT001109134.1,EC_40,Nigeria: Ibadan,soil from electronic waste dumpsite,Peace,"
+PRJNA544810",https://www.ncbi.nlm.nih.gov/pathogens/isolates/#PDT001109134.1,none found,Same as above
+37,A,SAMN11855565,GCA_019584685.1,PDT001109135.1,EC_42,Nigeria: Ibadan,water from electronic waste dumpsite,Peace,"
+PRJNA544810",https://www.ncbi.nlm.nih.gov/pathogens/isolates/#PDT001109135.1,none found,Same as above
+38,A,SAMN11855560,GCA_019584715.1,PDT001109136.1,EC_37,Nigeria: Ibadan,soil from electronic waste dumpsite,Peace,"
+PRJNA544810",https://www.ncbi.nlm.nih.gov/pathogens/isolates/#PDT001109136.1,none found,Same as above
+39,A,SAMN11855556,GCA_019584705.1,PDT001109137.1,EC_33,Nigeria: Lagos,water from electronic waste dumpsite,Peace,"
+PRJNA544810",https://www.ncbi.nlm.nih.gov/pathogens/isolates/#PDT001109137.1,none found,Same as above
+40,A,SAMN11855562,GCA_019584725.1,PDT001109138.1,EC_39,Nigeria: Ibadan,soil from electronic waste dumpsite,Peace,"
+PRJNA544810",https://www.ncbi.nlm.nih.gov/pathogens/isolates/#PDT001109138.1,none found,Same as above
+41,A,SAMN11855555,GCA_019584765.1,PDT001109139.1,EC_32,Nigeria: Lagos,water from electronic waste dumpsite,Peace,"
+PRJNA544810",https://www.ncbi.nlm.nih.gov/pathogens/isolates/#PDT001109139.1,none found,Same as above
+42,A,SAMN11855557,GCA_019584785.1,PDT001109140.1,EC_34,Nigeria: Lagos,water from electronic waste dumpsite,Peace,"
+PRJNA544810",https://www.ncbi.nlm.nih.gov/pathogens/isolates/#PDT001109140.1,none found,Same as above
+43,B,SAMN11855554,GCA_019584795.1,PDT001109141.1,EC_31,Nigeria: Lagos,water from electronic waste dumpsite,,,,,
+44,B,SAMN11855553,GCA_019584825.1,PDT001109142.1,EC_30,Nigeria: Lagos,water from electronic waste dumpsite,,,,,
+45,B,SAMN11855559,GCA_019584845.1,PDT001109143.1,EC_36,Nigeria: Ibadan,soil from electronic waste dumpsite,,,,,
+46,B,SAMN11855551,GCA_019584865.1,PDT001109144.1,EC_28,Nigeria: Lagos,water from electronic waste dumpsite,,,,,
+47,B,SAMN11855550,GCA_019584875.1,PDT001109145.1,EC_27,Nigeria: Lagos,water from electronic waste dumpsite,,,,,
+48,B,SAMN11855548,GCA_019584905.1,PDT001109146.1,EC_25,Nigeria: Lagos,water from electronic waste dumpsite,,,,,
+49,B,SAMN11855547,GCA_019584925.1,PDT001109147.1,EC_24,Nigeria: Lagos,water from electronic waste dumpsite,,,,,
+50,B,SAMN11855546,GCA_019584945.1,PDT001109148.1,EC_23,Nigeria: Lagos,water from electronic waste dumpsite,,,,,
+51,B,SAMN11855545,GCA_019584965.1,PDT001109149.1,EC_22,Nigeria: Lagos,water from electronic waste dumpsite,,,,,
+52,B,SAMN11855543,GCA_019584985.1,PDT001109150.1,EC_20,Nigeria: Lagos,water from electronic waste dumpsite,,,,,
+53,B,SAMN11855541,GCA_019585005.1,PDT001109151.1,EC_18,Nigeria: Lagos,water from electronic waste dumpsite,,,,,
+54,B,SAMN11855542,GCA_019585025.1,PDT001109152.1,EC_19,Nigeria: Lagos,water from electronic waste dumpsite,,,,,
+55,B,SAMN11855539,GCA_019585045.1,PDT001109153.1,EC_16,Nigeria: Lagos,water from electronic waste dumpsite,,,,,
+56,B,SAMN11855540,GCA_019585065.1,PDT001109154.1,EC_17,Nigeria: Lagos,water from electronic waste dumpsite,,,,,
+57,B,SAMN11855538,GCA_019585085.1,PDT001109155.1,EC_15,Nigeria: Lagos,water from electronic waste dumpsite,,,,,
+58,B,SAMN11855537,GCA_019585105.1,PDT001109156.1,EC_14,Nigeria: Lagos,water from electronic waste dumpsite,,,,,
+59,B,SAMN11855536,GCA_019585115.1,PDT001109157.1,EC_13,Nigeria: Lagos,water from electronic waste dumpsite,,,,,
+60,B,SAMN11855535,GCA_019585145.1,PDT001109158.1,EC_12,Nigeria: Lagos,water from electronic waste dumpsite,,,,,
+61,B,SAMN11855533,GCA_019585165.1,PDT001109159.1,EC_10,Nigeria: Lagos,water from electronic waste dumpsite,,,,,
+62,B,SAMN11855532,GCA_019585205.1,PDT001109160.1,EC_9,Nigeria: Lagos,water from electronic waste dumpsite,,,,,
+63,B,SAMN11855530,GCA_019585235.1,PDT001109161.1,EC_7,Nigeria: Lagos,water from electronic waste dumpsite,,,,,
+64,B,SAMN11855531,GCA_019585225.1,PDT001109162.1,EC_8,Nigeria: Lagos,water from electronic waste dumpsite,,,,,
+65,B,SAMN11855529,GCA_019585245.1,PDT001109163.1,EC_6,Nigeria: Lagos,water from electronic waste dumpsite,,,,,
+66,B,SAMN11855528,GCA_019585285.1,PDT001109164.1,EC_5,Nigeria: Lagos,water from electronic waste dumpsite,,,,,
+67,B,SAMN11855527,GCA_019585305.1,PDT001109165.1,EC_4,Nigeria: Lagos,water from electronic waste dumpsite,,,,,
+68,B,SAMN11855526,GCA_019585325.1,PDT001109166.1,EC_3,Nigeria: Lagos,water from electronic waste dumpsite,,,,,
+69,B,SAMN11855525,GCA_019585435.1,PDT001109171.1,EC_2,Nigeria: Lagos,water from electronic waste dumpsite,,,,,
+70,B,SAMN11855552,GCA_019780505.1,PDT001118087.1,EC_29,Nigeria: Lagos,water from electronic waste dumpsite,,,,,
+71,B,SAMN11855569,GCA_019780515.1,PDT001118088.1,EC_46,Nigeria: Ibadan,water from electronic waste dumpsite,,,,,
+72,B,SAMN11855549,GCA_019780545.1,PDT001118089.1,EC_26,Nigeria: Lagos,water from electronic waste dumpsite,,,,,
+73,B,SAMN16482550,GCA_021022845.1,PDT001195390.1,TAK 137,"Nigeria: Lagos, Takwa Bay",dry sand,,,,,
+74,B,SAMN16482549,GCA_021022855.1,PDT001195391.1,TAK 144,"Nigeria: Lagos, Takwa Bay",shoreline saltwater,,,,,
+75,B,SAMN16482548,GCA_021022895.1,PDT001195392.1,TAK 149,"Nigeria: Lagos, Takwa Bay",dry sand,,,,,
+76,B,SAMN16482545,GCA_021022945.1,PDT001195393.1,BDG 170,"Nigeria: Lagos,Badagry Beach",dry sand,,,,,
+77,B,SAMN16482546,GCA_021022975.1,PDT001195394.1,TAK 134,"Nigeria: Lagos, Takwa Bay",shoreline saltwater,,,,,
+78,B,SAMN52882607,GCA_053232725.1,PDT002965819.1,UG,Nigeria: Lagos,Irrigated farm,,,,,
+79,B,SAMN60760668,GCA_059817405.1,PDT003313560.1,EAEC28,Nigeria: Ibadan,Human stool samples28,,,,,
+80,B,SAMN60760667,GCA_059817425.1,PDT003313561.1,EAEC27,Nigeria: Ibadan,Human stool samples27,,,,,
+81,B,SAMN60760666,GCA_059817435.1,PDT003313562.1,EAEC26,Nigeria: Ibadan,Human stool samples26,,,,,
+82,B,SAMN60760665,GCA_059817465.1,PDT003313563.1,EAEC25,Nigeria: Ibadan,Human stool samples25,,,,,
+83,B,SAMN60760664,GCA_059817485.1,PDT003313564.1,EAEC24,Nigeria: Ibadan,Human stool samples24,,,,,
+84,B,SAMN60760663,GCA_059817505.1,PDT003313565.1,EAEC23,Nigeria: Ibadan,Human stool samples23,,,,,
+85,C,SAMN60760662,GCA_059817525.1,PDT003313566.1,EAEC22,Nigeria: Ibadan,Human stool samples22,,,,,
+86,C,SAMN60760661,GCA_059817545.1,PDT003313567.1,EAEC21,Nigeria: Ibadan,Human stool samples21,,,,,
+87,C,SAMN60760659,GCA_059817555.1,PDT003313568.1,EAEC19,Nigeria: Ibadan,Human stool samples19,,,,,
+88,C,SAMN60760658,GCA_059817585.1,PDT003313569.1,EAEC18,Nigeria: Ibadan,Human stool samples18,,,,,
+89,C,SAMN60760657,GCA_059817605.1,PDT003313570.1,EAEC17,Nigeria: Ibadan,Human stool samples17,,,,,
+90,C,SAMN60760656,GCA_059817615.1,PDT003313571.1,EAEC16,Nigeria: Ibadan,Human stool samples16,,,,,
+91,C,SAMN60760655,GCA_059817645.1,PDT003313572.1,EAEC15,Nigeria: Ibadan,Human stool samples15,,,,,
+92,C,SAMN60760653,GCA_059817665.1,PDT003313573.1,EAEC13,Nigeria: Ibadan,Human stool samples13,,,,,
+93,C,SAMN60760654,GCA_059817685.1,PDT003313574.1,EAEC14,Nigeria: Ibadan,Human stool samples14,,,,,
+94,C,SAMN60760651,GCA_059817705.1,PDT003313575.1,EAEC11,Nigeria: Ibadan,Human stool samples11,,,,,
+95,C,SAMN60760649,GCA_059817735.1,PDT003313576.1,EAEC9,Nigeria: Ibadan,Human stool samples9,,,,,
+96,C,SAMN60760650,GCA_059817725.1,PDT003313577.1,EAEC10,Nigeria: Ibadan,Human stool samples10,,,,,
+97,C,SAMN60760648,GCA_059817765.1,PDT003313578.1,EAEC8,Nigeria: Ibadan,Human stool samples8,,,,,
+98,C,SAMN60760647,GCA_059817785.1,PDT003313579.1,EAEC7,Nigeria: Ibadan,Human stool samples7,,,,,
+99,C,SAMN60760646,GCA_059817805.1,PDT003313580.1,EAEC6,Nigeria: Ibadan,Human stool samples6,,,,,
+100,C,SAMN60760645,GCA_059817825.1,PDT003313581.1,EAEC5,Nigeria: Ibadan,Human stool samples5,,,,,
+101,C,SAMN60760644,GCA_059817845.1,PDT003313582.1,EAEC4,Nigeria: Ibadan,Human stool samples4,,,,,
+102,C,SAMN60760643,GCA_059817865.1,PDT003313583.1,EAEC3,Nigeria: Ibadan,Human stool samples3,,,,,
+103,C,SAMN60760642,GCA_059817885.1,PDT003313584.1,EAEC2,Nigeria: Ibadan,Human stool samples2,,,,,
+104,C,SAMN62700627,GCA_060466715.1,PDT003351356.1,,Nigeria: Edo State,Slaughterhouse surfaces,,,,,
+105,C,SAMN62700626,GCA_060466675.1,PDT003351357.1,,Nigeria: Edo State,Slaughterhouse surfaces,,,,,
+106,C,SAMN62700625,GCA_060468515.1,PDT003351358.1,,Nigeria: Edo State,Slaughterhouse surfaces,,,,,
+107,C,SAMN62700624,GCA_060468455.1,PDT003351359.1,,Nigeria: Edo State,Slaughterhouse surfaces,,,,,
+108,C,SAMN62700623,GCA_060466635.1,PDT003351360.1,,Nigeria: Edo State,Slaughterhouse surfaces,,,,,
+109,C,SAMN62700622,GCA_060466655.1,PDT003351361.1,,Nigeria: Edo State,Slaughterhouse surfaces,,,,,
+110,C,SAMN62700621,GCA_060466615.1,PDT003351362.1,,Nigeria: Edo State,Slaughterhouse surfaces,,,,,
+111,C,SAMN62700620,GCA_060466595.1,PDT003351363.1,,Nigeria: Edo State,Slaughterhouse surfaces,,,,,
+112,C,SAMN62700633,GCA_060477995.1,PDT003351364.1,,Nigeria: Edo State,Slaughterhouse surfaces,,,,,
+113,C,SAMN62700632,GCA_060468435.1,PDT003351365.1,,Nigeria: Edo State,Slaughterhouse surfaces,,,,,
+114,C,SAMN62700631,GCA_060466575.1,PDT003351366.1,,Nigeria: Edo State,Slaughterhouse surfaces,,,,,
+115,C,SAMN62700630,GCA_060477895.1,PDT003351367.1,,Nigeria: Edo State,Slaughterhouse surfaces,,,,,
+116,C,SAMN62700629,GCA_060466555.1,PDT003351368.1,,Nigeria: Edo State,Slaughterhouse surfaces,,,,,
+117,C,SAMN62700628,GCA_060466515.1,PDT003351369.1,,Nigeria: Edo State,Slaughterhouse surfaces,,,,,
+118,C,SAMN62700619,GCA_060466535.1,PDT003351370.1,,Nigeria: Edo State,Slaughterhouse surfaces,,,,,
+119,C,SAMN62700618,GCA_060469395.1,PDT003351371.1,,Nigeria: Edo State,Slaughterhouse surfaces,,,,,
+120,C,SAMN62701950,GCA_060466475.1,PDT003351419.1,,Nigeria: Edo State,Slaughterhouse surfaces,,,,,
+121,C,SAMN62701949,GCA_060473295.1,PDT003351420.1,,Nigeria: Edo State,Slaughterhouse surfaces,,,,,
+122,C,SAMN62701948,GCA_060477915.1,PDT003351421.1,,Nigeria: Edo State,Slaughterhouse surfaces,,,,,
+123,C,SAMN62701947,GCA_060477875.1,PDT003351422.1,,Nigeria: Edo State,Slaughterhouse surfaces,,,,,
+124,C,SAMN62701946,GCA_060477795.1,PDT003351423.1,,Nigeria: Edo State,Slaughterhouse surfaces,,,,,
+125,C,SAMN62701945,GCA_060477735.1,PDT003351424.1,,Nigeria: Edo State,Slaughterhouse surfaces,,,,,
+126,D,SAMN62701944,GCA_060466435.1,PDT003351425.1,,Nigeria: Edo State,Slaughterhouse surfaces,,,,,
+127,D,SAMN62701943,GCA_060477695.1,PDT003351426.1,,Nigeria: Edo State,Slaughterhouse surfaces,,,,,
+128,D,SAMN62701956,GCA_060473175.1,PDT003351427.1,,Nigeria: Edo State,Slaughterhouse surfaces,,,,,
+129,D,SAMN62701955,GCA_060466415.1,PDT003351428.1,,Nigeria: Edo State,Slaughterhouse surfaces,,,,,
+130,D,SAMN62701954,GCA_060468395.1,PDT003351429.1,,Nigeria: Edo State,Slaughterhouse surfaces,,,,,
+131,D,SAMN62701953,GCA_060477635.1,PDT003351430.1,,Nigeria: Edo State,Slaughterhouse surfaces,,,,,
+132,D,SAMN62701952,GCA_060466395.1,PDT003351431.1,,Nigeria: Edo State,Slaughterhouse surfaces,,,,,
+133,D,SAMN62701951,GCA_060477575.1,PDT003351432.1,,Nigeria: Edo State,Slaughterhouse surfaces,,,,,
+134,D,SAMN62701942,GCA_060477585.1,PDT003351433.1,,Nigeria: Edo State,Slaughterhouse surfaces,,,,,
+135,D,SAMN62701941,GCA_060477535.1,PDT003351434.1,,Nigeria: Edo State,Slaughterhouse surfaces,,,,,
+136,D,SAMN62702277,GCA_060481895.1,PDT003351466.1,,Nigeria: Edo State,Slaughterhouse surfaces,,,,,
+137,D,SAMN62702276,GCA_060480675.1,PDT003351467.1,,Nigeria: Edo State,Slaughterhouse surfaces,,,,,
+138,D,SAMN62702275,GCA_060481845.1,PDT003351468.1,,Nigeria: Edo State,Slaughterhouse surfaces,,,,,
+139,D,SAMN62702274,GCA_060481825.1,PDT003351469.1,,Nigeria: Edo State,Slaughterhouse surfaces,,,,,
+140,D,SAMN62702273,GCA_060481755.1,PDT003351470.1,,Nigeria: Edo State,Slaughterhouse surfaces,,,,,
+141,D,SAMN62702272,GCA_060481715.1,PDT003351471.1,,Nigeria: Edo State,Slaughterhouse surfaces,,,,,
+142,D,SAMN62702271,GCA_060481685.1,PDT003351472.1,,Nigeria: Edo State,Slaughterhouse surfaces,,,,,
+143,D,SAMN62702270,GCA_060480615.1,PDT003351473.1,,Nigeria: Edo State,Slaughterhouse surfaces,,,,,
+144,D,SAMN62702285,GCA_060480555.1,PDT003351474.1,,Nigeria: Edo State,Slaughterhouse surfaces,,,,,
+145,D,SAMN62702283,GCA_060481655.1,PDT003351476.1,,Nigeria: Edo State,Slaughterhouse surfaces,,,,,
+146,D,SAMN62702282,GCA_060480535.1,PDT003351477.1,,Nigeria: Edo State,Slaughterhouse surfaces,,,,,
+147,D,SAMN62702280,GCA_060480495.1,PDT003351479.1,,Nigeria: Edo State,Slaughterhouse surfaces,,,,,
+148,D,SAMN62702279,GCA_060480415.1,PDT003351480.1,,Nigeria: Edo State,Slaughterhouse surfaces,,,,,
+149,D,SAMN62702278,GCA_060480395.1,PDT003351481.1,,Nigeria: Edo State,Slaughterhouse surfaces,,,,,
+150,D,SAMN62702269,GCA_060481585.1,PDT003351482.1,,Nigeria: Edo State,Slaughterhouse surfaces,,,,,
+151,D,SAMN62702268,GCA_060480375.1,PDT003351483.1,,Nigeria: Edo State,Slaughterhouse surfaces,,,,,
+152,D,SAMN61848576,GCA_060580055.1,PDT003357103.1,EOS_EC022,Nigeria: Lagos,blood,,,,,
+153,D,SAMN61848574,GCA_060580075.1,PDT003357104.1,EOS_EC018,Nigeria: Lagos,blood,,,,,
+154,D,SAMN61848575,GCA_060580095.1,PDT003357105.1,EOS_EC020,Nigeria: Lagos,blood,,,,,
+155,D,SAMN61848572,GCA_060580115.1,PDT003357106.1,EOS_EC015,Nigeria: Lagos,blood,,,,,
+156,D,SAMN61848573,GCA_060580135.1,PDT003357107.1,EOS_EC017,Nigeria: Lagos,blood,,,,,
+157,D,SAMN61848571,GCA_060580155.1,PDT003357108.1,EOS_EC014,Nigeria: Lagos,blood,,,,,
+158,D,SAMN61848570,GCA_060580175.1,PDT003357109.1,EOS_EC010,Nigeria: Lagos,blood,,,,,
+159,D,SAMN61848568,GCA_060580195.1,PDT003357110.1,EOS_EC008,Nigeria: Lagos,blood,,,,,
+160,D,SAMN61848569,GCA_060580215.1,PDT003357111.1,EOS_EC009,Nigeria: Lagos,blood,,,,,
+161,D,SAMN61848567,GCA_060580235.1,PDT003357112.1,EOS_EC007,Nigeria: Lagos,blood,,,,,
+162,D,SAMN61848566,GCA_060580255.1,PDT003357113.1,EOS_EC006,Nigeria: Lagos,blood,,,,,
+163,D,SAMN61848565,GCA_060580275.1,PDT003357114.1,EOS_EC005,Nigeria: Lagos,blood,,,,,
+164,D,SAMN61848562,GCA_060580295.1,PDT003357115.1,EOS_EC002,Nigeria: Lagos,blood,,,,,
+165,D,SAMN61848564,GCA_060580315.1,PDT003357116.1,EOS_EC004,Nigeria: Lagos,blood,,,,,
+166,D,SAMN61848563,GCA_060580335.1,PDT003357117.1,EOS_EC003,Nigeria: Lagos,blood,,,,,
