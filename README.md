@@ -71,6 +71,7 @@ comment on your pull request or message her.
 | Name | Role |
 |---|---|
 | Nkiruka Cynthia Efenji | Coordinator |
+| Peace Daniel | Literature Review |
 
 ## Data use
 All data are public. We cite the original studies and BioProjects, and contact the
