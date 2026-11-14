@@ -1,0 +1,91 @@
+Gene or mutation	Type	Total n	Total %	Human n (of 38)	Human %	Animal/food-chain n (of 38)	Animal/food-chain %	Environment n (of 49)	Environment %
+blaEC	gene	117	93.6	37	97.4	37	97.4	43	87.8
+mdtM	gene	115	92.0	29	76.3	38	100.0	48	98.0
+acrF	gene	106	84.8	26	68.4	36	94.7	44	89.8
+tet(A)	gene	66	52.8	18	47.4	20	52.6	28	57.1
+blaTEM-1	gene	64	51.2	25	65.8	12	31.6	27	55.1
+sul2	gene	61	48.8	32	84.2	7	18.4	22	44.9
+aph(6)-Id	gene	49	39.2	23	60.5	7	18.4	19	38.8
+aph(3'')-Ib	gene	45	36.0	27	71.1	6	15.8	12	24.5
+sul1	gene	32	25.6	20	52.6	4	10.5	8	16.3
+dfrA14	gene	30	24.0	7	18.4	6	15.8	17	34.7
+qnrS1	gene	30	24.0	6	15.8	12	31.6	12	24.5
+gyrA_S83L	point mutation	27	21.6	13	34.2	5	13.2	9	18.4
+tet(B)	gene	22	17.6	17	44.7	3	7.9	2	4.1
+gyrA_D87N	point mutation	19	15.2	8	21.1	4	10.5	7	14.3
+cyaA_S352T	point mutation	18	14.4	13	34.2	2	5.3	3	6.1
+parC_S80I	point mutation	18	14.4	8	21.1	3	7.9	7	14.3
+uhpT_E350Q	point mutation	18	14.4	15	39.5	2	5.3	1	2.0
+mph(A)	gene	17	13.6	11	28.9	0	0.0	6	12.2
+mrx(A)	gene	17	13.6	11	28.9	0	0.0	6	12.2
+aadA1	gene	16	12.8	8	21.1	4	10.5	4	8.2
+catA1	gene	16	12.8	13	34.2	1	2.6	2	4.1
+blaOXA-1	gene	14	11.2	8	21.1	1	2.6	5	10.2
+sul3	gene	14	11.2	1	2.6	7	18.4	6	12.2
+blaCTX-M-15	gene	13	10.4	9	23.7	3	7.9	1	2.0
+dfrA17	gene	13	10.4	9	23.7	1	2.6	3	6.1
+aadA5	gene	12	9.6	9	23.7	1	2.6	2	4.1
+dfrA7	gene	10	8.0	8	21.1	1	2.6	1	2.0
+parE_S458A	point mutation	9	7.2	2	5.3	1	2.6	6	12.2
+dfrA12	gene	8	6.4	3	7.9	0	0.0	5	10.2
+aadA2	gene	7	5.6	3	7.9	1	2.6	3	6.1
+aac(3)-IId	gene	6	4.8	5	13.2	0	0.0	1	2.0
+dfrA1	gene	6	4.8	2	5.3	4	10.5	0	0.0
+parE_I529L	point mutation	6	4.8	5	13.2	1	2.6	0	0.0
+ptsI_V25I	point mutation	6	4.8	5	13.2	1	2.6	0	0.0
+aac(3)-IIe	gene	5	4.0	2	5.3	1	2.6	2	4.1
+aac(6')-Ib-cr5	gene	5	4.0	2	5.3	1	2.6	2	4.1
+blaTEMp_G162T	point mutation	5	4.0	4	10.5	0	0.0	1	2.0
+dfrA8	gene	5	4.0	5	13.2	0	0.0	0	0.0
+parC_S57T	point mutation	5	4.0	5	13.2	0	0.0	0	0.0
+parC_E84V	point mutation	4	3.2	3	7.9	1	2.6	0	0.0
+emrD	gene	3	2.4	1	2.6	1	2.6	1	2.0
+estX	gene	3	2.4	0	0.0	3	7.9	0	0.0
+parC_A56T	point mutation	3	2.4	0	0.0	0	0.0	3	6.1
+qepA	gene	3	2.4	1	2.6	0	0.0	2	4.1
+qepA4	gene	3	2.4	3	7.9	0	0.0	0	0.0
+aac(6')-Ib3	gene	2	1.6	0	0.0	0	0.0	2	4.1
+blaCMY-6	gene	2	1.6	0	0.0	0	0.0	2	4.1
+blaNDM-1	gene	2	1.6	0	0.0	0	0.0	2	4.1
+blaTEMp_C32T	point mutation	2	1.6	2	5.3	0	0.0	0	0.0
+ble	gene	2	1.6	0	0.0	0	0.0	2	4.1
+catA2	gene	2	1.6	1	2.6	1	2.6	0	0.0
+cirA_W243Ter	point mutation	2	1.6	2	5.3	0	0.0	0	0.0
+cmlA1	gene	2	1.6	0	0.0	1	2.6	1	2.0
+erm(B)	gene	2	1.6	2	5.3	0	0.0	0	0.0
+estX-3	gene	2	1.6	0	0.0	0	0.0	2	4.1
+ftsI_N337NYRIN	point mutation	2	1.6	2	5.3	0	0.0	0	0.0
+gyrA_S83V	point mutation	2	1.6	2	5.3	0	0.0	0	0.0
+parC_E84G	point mutation	2	1.6	2	5.3	0	0.0	0	0.0
+parE_L416F	point mutation	2	1.6	1	2.6	1	2.6	0	0.0
+rmtC	gene	2	1.6	0	0.0	0	0.0	2	4.1
+sat2	gene	2	1.6	2	5.3	0	0.0	0	0.0
+soxS_A12S	point mutation	2	1.6	0	0.0	1	2.6	1	2.0
+acrR_E190RfsTer20	point mutation	1	0.8	1	2.6	0	0.0	0	0.0
+blaCARB-2	gene	1	0.8	0	0.0	1	2.6	0	0.0
+blaCTX-M-27	gene	1	0.8	1	2.6	0	0.0	0	0.0
+blaSHV-11	gene	1	0.8	0	0.0	0	0.0	1	2.0
+blaTEM-171	gene	1	0.8	1	2.6	0	0.0	0	0.0
+cirA_R262LfsTer16	point mutation	1	0.8	1	2.6	0	0.0	0	0.0
+dfrA16	gene	1	0.8	0	0.0	1	2.6	0	0.0
+dfrA5	gene	1	0.8	0	0.0	0	0.0	1	2.0
+dfrB4	gene	1	0.8	0	0.0	1	2.6	0	0.0
+floR	gene	1	0.8	0	0.0	0	0.0	1	2.0
+gyrA_S83A	point mutation	1	0.8	1	2.6	0	0.0	0	0.0
+nfsA_A55VfsTer6	point mutation	1	0.8	0	0.0	0	0.0	1	2.0
+nfsA_G126R	point mutation	1	0.8	1	2.6	0	0.0	0	0.0
+nfsA_N114_Q191del	point mutation	1	0.8	0	0.0	0	0.0	1	2.0
+nfsA_N135KfsTer2	point mutation	1	0.8	0	0.0	1	2.6	0	0.0
+nfsA_Q113Ter	point mutation	1	0.8	1	2.6	0	0.0	0	0.0
+nfsA_W212Ter	point mutation	1	0.8	1	2.6	0	0.0	0	0.0
+nfsA_Y200Ter	point mutation	1	0.8	1	2.6	0	0.0	0	0.0
+ompF_G81SfsTer4	point mutation	1	0.8	0	0.0	0	0.0	1	2.0
+parC_A108T	point mutation	1	0.8	1	2.6	0	0.0	0	0.0
+parC_E84K	point mutation	1	0.8	0	0.0	1	2.6	0	0.0
+parE_I355T	point mutation	1	0.8	1	2.6	0	0.0	0	0.0
+qnrB19	gene	1	0.8	0	0.0	1	2.6	0	0.0
+qnrB7	gene	1	0.8	0	0.0	0	0.0	1	2.0
+tet(D)	gene	1	0.8	1	2.6	0	0.0	0	0.0
+uhpT_G111AfsTer14	point mutation	1	0.8	1	2.6	0	0.0	0	0.0
+catB3	gene	0	0.0	0	0.0	0	0.0	0	0.0
+qnrB	gene	0	0.0	0	0.0	0	0.0	0	0.0
