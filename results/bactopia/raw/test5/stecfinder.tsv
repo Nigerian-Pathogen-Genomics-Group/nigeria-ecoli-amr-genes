@@ -1,0 +1,6 @@
+Sample	Cluster	Cluster Serotype	Serotype	Big10 serotype	O antigens	H antigens	stx type	ipaH presence	Notes
+GCA_002284675	Other_Ecoli	N/A	O9/O30:H19		wzm_O9,wzx_O30	H19	-	-	ipaH-stx- = Non-STEC E.coli
+GCA_019583635	Other_Ecoli	N/A	O126:H27		wzy_O126	H27	-	-	ipaH-stx- = Non-STEC E.coli
+GCA_059817405	Other_Ecoli	N/A	O11:H25		wzy_O11	H25	-	-	ipaH-stx- = Non-STEC E.coli
+GCA_060466715	Other_Ecoli	N/A	O9/O9a:H30		wzt_O9a,wzm_O9	H30	-	-	ipaH-stx- = Non-STEC E.coli
+GCA_060580055	Other_Ecoli	N/A	O101:H10		wzt_O101	H10	-	-	ipaH-stx- = Non-STEC E.coli

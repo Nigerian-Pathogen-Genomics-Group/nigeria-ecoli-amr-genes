@@ -1,0 +1,121 @@
+sample	detected_genes	quadruplex_genes	quadruplex_alleles	phylogroup	mash_group
+GCA_002284685.fna	['trpA', 'trpBA', 'chuA', 'yjaA', 'TspE4.C2', 'trpAgpC']	['-', '+', '+', '+']	['trpAgpC']	B2	B2
+GCA_009729995.fna	['ybgD', 'trpA', 'trpBA', 'trpAgpC']	['-', '-', '-', '-']	['trpAgpC']	Unknown	B1
+GCA_012273455.fna	['ybgD', 'trpA', 'trpBA', 'arpA', 'trpAgpC']	['+', '-', '-', '-']	['trpAgpC']	A	B1
+GCA_013364455.fna	['ybgD', 'trpA', 'trpBA', 'arpA', 'trpAgpC']	['+', '-', '-', '-']	['trpAgpC']	A	B1
+GCA_013367815.fna	['ybgD', 'trpA', 'trpBA', 'arpA', 'trpAgpC']	['+', '-', '-', '-']	['trpAgpC']	A	B1
+GCA_013391325.fna	['trpA', 'trpBA', 'arpA', 'trpAgpC']	['+', '-', '-', '-']	['trpAgpC']	A	B1
+GCA_013391345.fna	['ybgD', 'trpA', 'trpBA', 'arpA', 'trpAgpC']	['+', '-', '-', '-']	['trpAgpC']	A	B1
+GCA_019583665.fna	['ybgD', 'trpA', 'trpBA', 'yjaA', 'arpA']	['+', '-', '+', '-']	[]	A	A
+GCA_019583735.fna	['ybgD', 'trpA', 'trpBA', 'arpA']	['+', '-', '-', '-']	[]	A	A
+GCA_019583755.fna	['ybgD', 'trpA', 'trpBA', 'arpA']	['+', '-', '-', '-']	[]	A	A
+GCA_019583815.fna	['trpA', 'trpBA', 'arpA']	['+', '-', '-', '-']	[]	A	A
+GCA_019583835.fna	['ybgD', 'trpA', 'trpBA', 'chuA', 'arpA', 'trpAgpC']	['+', '+', '-', '-']	['trpAgpC']	D	D
+GCA_019583855.fna	['ybgD', 'trpA', 'trpBA', 'yjaA', 'arpA']	['+', '-', '+', '-']	[]	A	A
+GCA_019583875.fna	['ybgD', 'trpA', 'trpBA', 'arpA']	['+', '-', '-', '-']	[]	A	A
+GCA_019583965.fna	['ybgD', 'trpA', 'trpBA', 'yjaA', 'arpA']	['+', '-', '+', '-']	[]	A	A
+GCA_019583995.fna	['ybgD', 'trpA', 'trpBA', 'arpA']	['+', '-', '-', '-']	[]	A	A
+GCA_019584095.fna	['ybgD', 'trpA', 'trpBA', 'yjaA', 'arpA']	['+', '-', '+', '-']	[]	A	A
+GCA_019584115.fna	['trpA', 'trpBA', 'yjaA', 'arpA']	['+', '-', '+', '-']	[]	A	A
+GCA_019584135.fna	['ybgD', 'trpA', 'trpBA', 'TspE4.C2', 'arpA', 'trpAgpC']	['+', '-', '-', '+']	['trpAgpC']	B1	B1
+GCA_019584345.fna	['trpA', 'trpBA', 'arpA']	['+', '-', '-', '-']	[]	A	A
+GCA_019584405.fna	['ybgD', 'trpA', 'trpBA', 'TspE4.C2', 'arpA', 'trpAgpC']	['+', '-', '-', '+']	['trpAgpC']	B1	B1
+GCA_019584445.fna	['trpA', 'trpBA', 'yjaA', 'arpA']	['+', '-', '+', '-']	[]	A	A
+GCA_019584555.fna	['trpA', 'trpBA', 'yjaA', 'arpA']	['+', '-', '+', '-']	[]	A	A
+GCA_019584585.fna	['ybgD', 'trpA', 'trpBA', 'arpA']	['+', '-', '-', '-']	[]	A	A
+GCA_019584645.fna	['ybgD', 'trpA', 'trpBA', 'yjaA', 'arpA']	['+', '-', '+', '-']	[]	A	A
+GCA_019584665.fna	['trpA', 'trpBA', 'chuA', 'yjaA', 'arpA', 'ArpAgpE']	['+', '+', '+', '-']	['ArpAgpE']	E	E
+GCA_019584685.fna	['trpA', 'trpBA', 'yjaA', 'arpA']	['+', '-', '+', '-']	[]	A	A
+GCA_019584705.fna	['ybgD', 'trpA', 'trpBA', 'arpA']	['+', '-', '-', '-']	[]	A	A
+GCA_019584715.fna	['ybgD', 'trpA', 'trpBA', 'chuA', 'TspE4.C2', 'arpA', 'trpAgpC']	['+', '+', '-', '+']	['trpAgpC']	D	D
+GCA_019584765.fna	['ybgD', 'trpA', 'trpBA', 'yjaA', 'arpA']	['+', '-', '+', '-']	[]	A	A
+GCA_019584785.fna	['ybgD', 'trpA', 'trpBA', 'yjaA', 'arpA']	['+', '-', '+', '-']	[]	A	A
+GCA_019584795.fna	['ybgD', 'trpA', 'trpBA', 'arpA']	['+', '-', '-', '-']	[]	A	A
+GCA_019584825.fna	['ybgD', 'trpA', 'trpBA', 'yjaA', 'arpA']	['+', '-', '+', '-']	[]	A	A
+GCA_019584845.fna	['ybgD', 'trpA', 'trpBA', 'arpA']	['+', '-', '-', '-']	[]	A	A
+GCA_019584875.fna	['ybgD', 'trpA', 'trpBA', 'TspE4.C2', 'arpA']	['+', '-', '-', '+']	[]	B1	B1
+GCA_019584965.fna	['trpA', 'trpBA', 'yjaA', 'arpA']	['+', '-', '+', '-']	[]	A	A
+GCA_019585005.fna	['ybgD', 'trpA', 'trpBA', 'chuA', 'arpA', 'ArpAgpE']	['+', '+', '-', '-']	['ArpAgpE']	E	E
+GCA_019585105.fna	['trpA', 'trpBA', 'yjaA', 'arpA']	['+', '-', '+', '-']	[]	A	A
+GCA_019585115.fna	['ybgD', 'trpA', 'trpBA', 'TspE4.C2', 'arpA', 'trpAgpC']	['+', '-', '-', '+']	['trpAgpC']	B1	B1
+GCA_019585145.fna	['ybgD', 'trpA', 'trpBA', 'arpA']	['+', '-', '-', '-']	[]	A	A
+GCA_019585165.fna	['ybgD', 'trpA', 'trpBA', 'arpA']	['+', '-', '-', '-']	[]	A	A
+GCA_019585205.fna	['ybgD', 'trpA', 'trpBA', 'yjaA', 'arpA']	['+', '-', '+', '-']	[]	A	A
+GCA_019585225.fna	['ybgD', 'trpA', 'trpBA', 'yjaA', 'arpA']	['+', '-', '+', '-']	[]	A	A
+GCA_019585235.fna	['trpA', 'trpBA', 'yjaA', 'arpA']	['+', '-', '+', '-']	[]	A	A
+GCA_019585245.fna	['ybgD', 'trpA', 'trpBA', 'yjaA', 'arpA']	['+', '-', '+', '-']	[]	A	A
+GCA_019585285.fna	['trpA', 'trpBA', 'yjaA', 'arpA']	['+', '-', '+', '-']	[]	A	A
+GCA_019585305.fna	['trpA', 'trpBA', 'yjaA', 'arpA']	['+', '-', '+', '-']	[]	A	A
+GCA_019585435.fna	['ybgD', 'trpA', 'trpBA', 'TspE4.C2', 'arpA', 'trpAgpC']	['+', '-', '-', '+']	['trpAgpC']	B1	B1
+GCA_019780505.fna	['ybgD', 'trpA', 'trpBA', 'arpA']	['+', '-', '-', '-']	[]	A	A
+GCA_019780515.fna	['ybgD', 'trpA', 'trpBA', 'arpA']	['+', '-', '-', '-']	[]	A	A
+GCA_021022845.fna	['ybgD', 'trpA', 'trpBA', 'TspE4.C2', 'arpA', 'trpAgpC']	['+', '-', '-', '+']	['trpAgpC']	B1	B1
+GCA_021022855.fna	['ybgD', 'trpA', 'trpBA', 'arpA']	['+', '-', '-', '-']	[]	A	A
+GCA_021022895.fna	['trpA', 'trpBA', 'yjaA', 'arpA']	['+', '-', '+', '-']	[]	A	A
+GCA_021022945.fna	['ybgD', 'trpA', 'trpBA', 'arpA']	['+', '-', '-', '-']	[]	A	A
+GCA_021022975.fna	['ybgD', 'trpA', 'trpBA', 'arpA']	['+', '-', '-', '-']	[]	A	A
+GCA_053232725.fna	['ybgD', 'trpA', 'trpBA', 'arpA']	['+', '-', '-', '-']	[]	A	A
+GCA_059817425.fna	['trpA', 'trpBA', 'chuA', 'arpA', 'ArpAgpE']	['+', '+', '-', '-']	['ArpAgpE']	E	E
+GCA_059817435.fna	['ybgD', 'trpA', 'trpBA', 'TspE4.C2', 'arpA', 'trpAgpC']	['+', '-', '-', '+']	['trpAgpC']	B1	B1
+GCA_059817465.fna	['trpA', 'trpBA', 'chuA', 'yjaA', 'TspE4.C2', 'trpAgpC']	['-', '+', '+', '+']	['trpAgpC']	B2	B2
+GCA_059817485.fna	['ybgD', 'trpA', 'trpBA', 'chuA', 'TspE4.C2', 'arpA', 'trpAgpC']	['+', '+', '-', '+']	['trpAgpC']	D	D
+GCA_059817505.fna	['ybgD', 'trpA', 'trpBA', 'TspE4.C2', 'arpA', 'trpAgpC']	['+', '-', '-', '+']	['trpAgpC']	B1	B1
+GCA_059817525.fna	['ybgD', 'trpA', 'trpBA', 'chuA', 'arpA', 'trpAgpC']	['+', '+', '-', '-']	['trpAgpC']	D	D
+GCA_059817555.fna	['ybgD', 'trpA', 'trpBA', 'TspE4.C2', 'arpA', 'trpAgpC']	['+', '-', '-', '+']	['trpAgpC']	B1	B1
+GCA_059817585.fna	['ybgD', 'trpA', 'trpBA', 'TspE4.C2', 'arpA', 'trpAgpC']	['+', '-', '-', '+']	['trpAgpC']	B1	B1
+GCA_059817615.fna	['ybgD', 'trpA', 'trpBA', 'chuA', 'arpA', 'trpAgpC']	['+', '+', '-', '-']	['trpAgpC']	D	D
+GCA_059817645.fna	['ybgD', 'trpA', 'trpBA', 'chuA', 'arpA', 'trpAgpC']	['+', '+', '-', '-']	['trpAgpC']	D	D
+GCA_059817685.fna	['ybgD', 'trpA', 'trpBA', 'chuA', 'TspE4.C2', 'arpA', 'trpAgpC']	['+', '+', '-', '+']	['trpAgpC']	D	D
+GCA_059817705.fna	['ybgD', 'trpA', 'trpBA', 'chuA', 'arpA', 'trpAgpC']	['+', '+', '-', '-']	['trpAgpC']	D	D
+GCA_059817725.fna	['ybgD', 'trpA', 'trpBA', 'yjaA', 'arpA']	['+', '-', '+', '-']	[]	A	A
+GCA_059817735.fna	['ybgD', 'trpA', 'trpBA', 'chuA', 'arpA', 'trpAgpC']	['+', '+', '-', '-']	['trpAgpC']	D	D
+GCA_059817805.fna	['ybgD', 'trpA', 'trpBA', 'chuA', 'TspE4.C2', 'arpA', 'trpAgpC']	['+', '+', '-', '+']	['trpAgpC']	D	D
+GCA_059817825.fna	['trpA', 'trpBA', 'chuA', 'yjaA', 'TspE4.C2', 'trpAgpC']	['-', '+', '+', '+']	['trpAgpC']	B2	B2
+GCA_059817865.fna	['trpA', 'trpBA', 'yjaA', 'arpA']	['+', '-', '+', '-']	[]	A	A
+GCA_059817885.fna	['ybgD', 'trpA', 'trpBA', 'chuA', 'arpA', 'trpAgpC']	['+', '+', '-', '-']	['trpAgpC']	D	D
+GCA_060466395.fna	['ybgD', 'trpA', 'trpBA', 'yjaA', 'arpA']	['+', '-', '+', '-']	[]	A	A
+GCA_060466415.fna	['ybgD', 'trpA', 'trpBA', 'TspE4.C2', 'arpA', 'trpAgpC']	['+', '-', '-', '+']	['trpAgpC']	B1	B1
+GCA_060466475.fna	['ybgD', 'trpA', 'trpBA', 'TspE4.C2', 'arpA', 'trpAgpC']	['+', '-', '-', '+']	['trpAgpC']	B1	B1
+GCA_060466515.fna	['ybgD', 'trpA', 'trpBA', 'TspE4.C2', 'arpA']	['+', '-', '-', '+']	[]	B1	B1
+GCA_060466555.fna	['ybgD', 'trpA', 'trpBA', 'TspE4.C2', 'arpA', 'trpAgpC']	['+', '-', '-', '+']	['trpAgpC']	B1	B1
+GCA_060466575.fna	['ybgD', 'trpA', 'trpBA', 'yjaA', 'arpA']	['+', '-', '+', '-']	[]	A	A
+GCA_060466615.fna	['ybgD', 'trpA', 'trpBA', 'arpA']	['+', '-', '-', '-']	[]	A	A
+GCA_060466635.fna	['ybgD', 'trpA', 'trpBA', 'yjaA', 'arpA']	['+', '-', '+', '-']	[]	A	A
+GCA_060466655.fna	['ybgD', 'trpA', 'trpBA', 'arpA']	['+', '-', '-', '-']	[]	A	A
+GCA_060466675.fna	['ybgD', 'trpA', 'trpBA', 'TspE4.C2', 'arpA', 'trpAgpC']	['+', '-', '-', '+']	['trpAgpC']	B1	B1
+GCA_060468395.fna	['ybgD', 'trpA', 'trpBA', 'TspE4.C2', 'arpA', 'trpAgpC']	['+', '-', '-', '+']	['trpAgpC']	B1	B1
+GCA_060468435.fna	['ybgD', 'trpA', 'trpBA', 'TspE4.C2', 'arpA', 'trpAgpC']	['+', '-', '-', '+']	['trpAgpC']	B1	B1
+GCA_060468455.fna	['ybgD', 'trpA', 'trpBA', 'yjaA', 'arpA']	['+', '-', '+', '-']	[]	A	A
+GCA_060468515.fna	['ybgD', 'trpA', 'trpBA', 'arpA']	['+', '-', '-', '-']	[]	A	A
+GCA_060473175.fna	['ybgD', 'trpA', 'trpBA', 'arpA']	['+', '-', '-', '-']	[]	A	A
+GCA_060473295.fna	['trpA', 'trpBA', 'arpA']	['+', '-', '-', '-']	[]	A	A
+GCA_060477535.fna	['ybgD', 'trpA', 'trpBA', 'yjaA', 'arpA']	['+', '-', '+', '-']	[]	A	A
+GCA_060477585.fna	['trpA', 'trpBA', 'chuA', 'arpA', 'ArpAgpE', 'trpAgpC']	['+', '+', '-', '-']	['ArpAgpE', 'trpAgpC']	E	E
+GCA_060477635.fna	['trpA', 'trpBA', 'arpA']	['+', '-', '-', '-']	[]	A	A
+GCA_060477695.fna	['trpA', 'trpBA', 'arpA']	['+', '-', '-', '-']	[]	A	A
+GCA_060477795.fna	['ybgD', 'trpA', 'trpBA', 'arpA']	['+', '-', '-', '-']	[]	A	A
+GCA_060477875.fna	['ybgD', 'trpA', 'trpBA', 'yjaA', 'arpA']	['+', '-', '+', '-']	[]	A	A
+GCA_060477895.fna	['ybgD', 'trpA', 'trpBA', 'arpA']	['+', '-', '-', '-']	[]	A	A
+GCA_060477915.fna	['ybgD', 'trpA', 'trpBA', 'TspE4.C2', 'arpA', 'trpAgpC']	['+', '-', '-', '+']	['trpAgpC']	B1	B1
+GCA_060477995.fna	['ybgD', 'trpA', 'trpBA', 'yjaA', 'arpA']	['+', '-', '+', '-']	[]	A	A
+GCA_060480375.fna	['ybgD', 'trpA', 'trpBA', 'arpA']	['+', '-', '-', '-']	[]	A	B1
+GCA_060480495.fna	['ybgD', 'trpA', 'trpBA', 'TspE4.C2', 'arpA', 'trpAgpC']	['+', '-', '-', '+']	['trpAgpC']	B1	B1
+GCA_060480535.fna	['ybgD', 'trpA', 'trpBA', 'arpA', 'trpAgpC']	['+', '-', '-', '-']	['trpAgpC']	A	A
+GCA_060480615.fna	['ybgD', 'trpA', 'trpBA', 'arpA']	['+', '-', '-', '-']	[]	A	A
+GCA_060481585.fna	['ybgD', 'trpA', 'trpBA', 'TspE4.C2', 'arpA']	['+', '-', '-', '+']	[]	B1	B1
+GCA_060481655.fna	['ybgD', 'trpA', 'trpBA', 'arpA']	['+', '-', '-', '-']	[]	A	A
+GCA_060481755.fna	['trpA', 'trpBA', 'arpA']	['+', '-', '-', '-']	[]	A	A
+GCA_060481845.fna	['trpA', 'trpBA', 'citPferg', 'aesI']	['-', '-', '-', '-']	['citPferg', 'aesI']	fergusonii	fergusonii
+GCA_060481895.fna	['trpA', 'trpBA', 'citPferg', 'aesI']	['-', '-', '-', '-']	['citPferg', 'aesI']	fergusonii	fergusonii
+GCA_060580075.fna	['ybgD', 'chuA', 'chuA', 'yjaA', 'TspE4.C2', 'trpAgpC']	['-', '+', '+', '+']	['trpAgpC']	B2	B2
+GCA_060580095.fna	['trpA', 'trpBA', 'chuA', 'yjaA', 'TspE4.C2', 'trpAgpC']	['-', '+', '+', '+']	['trpAgpC']	B2	B2
+GCA_060580115.fna	['ybgD', 'trpA', 'trpBA', 'chuA', 'arpA', 'trpAgpC']	['+', '+', '-', '-']	['trpAgpC']	D	D
+GCA_060580135.fna	['trpBA', 'chuA', 'aesI']	['-', '+', '-', '-']	['aesI']	F	F
+GCA_060580155.fna	['ybgD', 'trpA', 'trpBA', 'yjaA', 'arpA']	['+', '-', '+', '-']	[]	A	A
+GCA_060580195.fna	['trpA', 'trpBA', 'chuA', 'yjaA', 'TspE4.C2', 'trpAgpC']	['-', '+', '+', '+']	['trpAgpC']	B2	B2
+GCA_060580215.fna	['ybgD', 'trpA', 'trpBA', 'TspE4.C2', 'arpA', 'trpAgpC']	['+', '-', '-', '+']	['trpAgpC']	B1	B1
+GCA_060580235.fna	['ybgD', 'trpA', 'trpBA', 'chuA', 'arpA']	['+', '+', '-', '-']	[]	D	A
+GCA_060580255.fna	['trpA', 'trpBA', 'yjaA', 'arpA']	['+', '-', '+', '-']	[]	A	A
+GCA_060580275.fna	['trpA', 'trpBA', 'yjaA', 'arpA']	['+', '-', '+', '-']	[]	A	A
+GCA_060580295.fna	['trpA', 'trpBA', 'chuA']	['-', '+', '-', '-']	[]	F	F
+GCA_060580315.fna	['ybgD', 'trpA', 'trpBA', 'TspE4.C2', 'arpA', 'trpAgpC']	['+', '-', '-', '+']	['trpAgpC']	B1	B1

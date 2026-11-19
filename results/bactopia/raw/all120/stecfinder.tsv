@@ -1,0 +1,121 @@
+Sample	Cluster	Cluster Serotype	Serotype	Big10 serotype	O antigens	H antigens	stx type	ipaH presence	Notes
+GCA_002284685	B2M3	O25:H4	O25:H4		wzy_O25	H4	-	-	Strain with cluster specific genes but no stx detected.
+GCA_009729995	EIEC/Shigella	N/A	-:H16			H16	-	+	ipaH+stx- = Possible EIEC/Shigella, try out other tool shigeifinder!
+GCA_012273455	EIEC/Shigella	N/A	O129/O13:H14		wzx_O13/O129,wzy_O13/O129/O135	H14	-	+	ipaH+stx- = Possible EIEC/Shigella, try out other tool shigeifinder!
+GCA_013364455	EIEC/Shigella	N/A	O129/O13:H14		wzx_O13/O129,wzy_O13/O129/O135	H14	-	+	ipaH+stx- = Possible EIEC/Shigella, try out other tool shigeifinder!
+GCA_013367815	EIEC/Shigella	N/A	O13/O129:H14		wzx_O13/O129,wzy_O13/O129/O135	H14	-	+	ipaH+stx- = Possible EIEC/Shigella, try out other tool shigeifinder!
+GCA_013391325	EIEC/Shigella	N/A	O147:H45		wzy_O147	H45	-	+	ipaH+stx- = Possible EIEC/Shigella, try out other tool shigeifinder!
+GCA_013391345	EIEC/Shigella	N/A	O13/O129:H14		wzx_O13/O129,wzy_O13/O129/O135	H14	-	+	ipaH+stx- = Possible EIEC/Shigella, try out other tool shigeifinder!
+GCA_019583665	Other_Ecoli	N/A	O107:H27		wzx_O107	H27	-	-	ipaH-stx- = Non-STEC E.coli
+GCA_019583735	Other_Ecoli	N/A	O51:H9		wzy_O51	H9	-	-	ipaH-stx- = Non-STEC E.coli
+GCA_019583755	Other_Ecoli	N/A	O51:H26		wzy_O51	H26	-	-	ipaH-stx- = Non-STEC E.coli
+GCA_019583815	Other_Ecoli	N/A	O9/O9a:H4		wzt_O9a,wzm_O9	H4	-	-	ipaH-stx- = Non-STEC E.coli
+GCA_019583835	Other_Ecoli	N/A	O17:H18		wzy_O17/O44,wzx_O17/O77	H18	-	-	ipaH-stx- = Non-STEC E.coli
+GCA_019583855	Other_Ecoli	N/A	O184:H30		wzx_O184	H30	-	-	ipaH-stx- = Non-STEC E.coli
+GCA_019583875	Other_Ecoli	N/A	O80:H32		wzx_O80	H32	-	-	ipaH-stx- = Non-STEC E.coli
+GCA_019583965	Other_Ecoli	N/A	-:H10			H10	-	-	ipaH-stx- = Non-STEC E.coli
+GCA_019583995	Other_Ecoli	N/A	O11:H11		wzx_O11	H11	-	-	ipaH-stx- = Non-STEC E.coli
+GCA_019584095	Other_Ecoli	N/A	O9a/O9:H30		wzt_O9a,wzm_O9	H30	-	-	ipaH-stx- = Non-STEC E.coli
+GCA_019584115	Other_Ecoli	N/A	O101:H10		wzt_O101	H10	-	-	ipaH-stx- = Non-STEC E.coli
+GCA_019584135	Other_Ecoli	N/A	O91:H28		wzy_O91	H28	-	-	ipaH-stx- = Non-STEC E.coli
+GCA_019584345	Other_Ecoli	N/A	O75:H38		wzy_O75	H38	-	-	ipaH-stx- = Non-STEC E.coli
+GCA_019584405	Other_Ecoli	N/A	O3:H26		wzy_O3	H26	-	-	ipaH-stx- = Non-STEC E.coli
+GCA_019584445	Other_Ecoli	N/A	-:H25			H25	-	-	ipaH-stx- = Non-STEC E.coli
+GCA_019584555	Other_Ecoli	N/A	-:H11			H11	-	-	ipaH-stx- = Non-STEC E.coli
+GCA_019584585	AM27	-	O11:H11		wzx_O11	H11	-	-	Strain with cluster specific genes but no stx detected. Detected O and H antigen genes do not match previously known serotypes for this cluster (O118/O151:H12)
+GCA_019584645	Other_Ecoli	N/A	O87:H12		wzy_O87	H12	-	-	ipaH-stx- = Non-STEC E.coli
+GCA_019584665	Other_Ecoli	N/A	O138:H48		wzy_O138	H48	-	-	ipaH-stx- = Non-STEC E.coli
+GCA_019584685	Other_Ecoli	N/A	O110:H5		wzy_O110	H5	-	-	ipaH-stx- = Non-STEC E.coli
+GCA_019584705	Other_Ecoli	N/A	O8/O179:H4		wzy_O179,wzm_O8	H4	-	-	ipaH-stx- = Non-STEC E.coli
+GCA_019584715	Other_Ecoli	N/A	O7:H15		wzy_O7	H15	-	-	ipaH-stx- = Non-STEC E.coli
+GCA_019584765	Other_Ecoli	N/A	O96/O8:H30		wzm_O8,wzx_O96	H30	-	-	ipaH-stx- = Non-STEC E.coli
+GCA_019584785	Other_Ecoli	N/A	O45:H16		wzy_O45	H16	-	-	ipaH-stx- = Non-STEC E.coli
+GCA_019584795	Other_Ecoli	N/A	O130:H26		wzy_O130	H26	-	-	ipaH-stx- = Non-STEC E.coli
+GCA_019584825	Other_Ecoli	N/A	O13/O129:H11		wzx_O13/O129,wzy_O13/O129/O135	H11	-	-	ipaH-stx- = Non-STEC E.coli
+GCA_019584845	Other_Ecoli	N/A	O141ac/O141:H5		wzx_O141,wzy_O141ac	H5	-	-	ipaH-stx- = Non-STEC E.coli
+GCA_019584875	Other_Ecoli	N/A	O5:H5		wzx_O5	H5	-	-	ipaH-stx- = Non-STEC E.coli
+GCA_019584965	Other_Ecoli	N/A	O105:H5		wzy_O105	H5	-	-	ipaH-stx- = Non-STEC E.coli
+GCA_019585005	Other_Ecoli	N/A	O169:H41		wzx_O169	H41	-	-	ipaH-stx- = Non-STEC E.coli
+GCA_019585105	Other_Ecoli	N/A	O101:H9		wzt_O101	H9	-	-	ipaH-stx- = Non-STEC E.coli
+GCA_019585115	Other_Ecoli	N/A	O64:H10		wzy_O64	H10	-	-	ipaH-stx- = Non-STEC E.coli
+GCA_019585145	Other_Ecoli	N/A	-:H32			H32	-	-	ipaH-stx- = Non-STEC E.coli
+GCA_019585165	Other_Ecoli	N/A	O36:H27		wzx_O36	H27	-	-	ipaH-stx- = Non-STEC E.coli
+GCA_019585205	Other_Ecoli	N/A	O107:-		wzx_O107		-	-	ipaH-stx- = Non-STEC E.coli
+GCA_019585225	Other_Ecoli	N/A	O68:H12		wzy_O68	H12	-	-	ipaH-stx- = Non-STEC E.coli
+GCA_019585235	Other_Ecoli	N/A	O101:H10		wzt_O101	H10	-	-	ipaH-stx- = Non-STEC E.coli
+GCA_019585245	Other_Ecoli	N/A	O147:H30		wzy_O147	H30	-	-	ipaH-stx- = Non-STEC E.coli
+GCA_019585285	Other_Ecoli	N/A	O50/O2:H48		wzx_O50,wzy_O2	H48	-	-	ipaH-stx- = Non-STEC E.coli
+GCA_019585305	Other_Ecoli	N/A	O101:H9		wzt_O101	H9	-	-	ipaH-stx- = Non-STEC E.coli
+GCA_019585435	Other_Ecoli	N/A	O64:H10		wzy_O64	H10	-	-	ipaH-stx- = Non-STEC E.coli
+GCA_019780505	Other_Ecoli	N/A	O134/O8:H20		wzy_O134,wzm_O8	H20	-	-	ipaH-stx- = Non-STEC E.coli
+GCA_019780515	Other_Ecoli	N/A	O148:H40		wzy_O148	H40	-	-	ipaH-stx- = Non-STEC E.coli
+GCA_021022845	Other_Ecoli	N/A	O9a:H10		wzm_O9a	H10	-	-	ipaH-stx- = Non-STEC E.coli
+GCA_021022855	Other_Ecoli	N/A	O147:H40		wzy_O147	H40	-	-	ipaH-stx- = Non-STEC E.coli
+GCA_021022895	Other_Ecoli	N/A	O110:H5		wzy_O110	H5	-	-	ipaH-stx- = Non-STEC E.coli
+GCA_021022945	Other_Ecoli	N/A	O7:H4		wzy_O7	H4	-	-	ipaH-stx- = Non-STEC E.coli
+GCA_021022975	Other_Ecoli	N/A	O154:H4		wzy_O154	H4	-	-	ipaH-stx- = Non-STEC E.coli
+GCA_053232725	Other_Ecoli	N/A	O51:H10		wzy_O51	H10	-	-	ipaH-stx- = Non-STEC E.coli
+GCA_059817425	Other_Ecoli	N/A	O80:H19		wzx_O80	H19	-	-	ipaH-stx- = Non-STEC E.coli
+GCA_059817435	Other_Ecoli	N/A	O128ac:H21		wzy_O128ac	H21	-	-	ipaH-stx- = Non-STEC E.coli
+GCA_059817465	Other_Ecoli	N/A	O25:H4		wzy_O25	H4	-	-	ipaH-stx- = Non-STEC E.coli
+GCA_059817485	Other_Ecoli	N/A	O166:H15		wzy_O166	H15	-	-	ipaH-stx- = Non-STEC E.coli
+GCA_059817505	Other_Ecoli	N/A	O181:H16		wzy_O181	H16	-	-	ipaH-stx- = Non-STEC E.coli
+GCA_059817525	AM18	-	O17:H18		wzy_O17/O44,wzx_O17/O77	H18	-	-	Strain with cluster specific genes but no stx detected. Detected O and H antigen genes do not match previously known serotypes for this cluster (O141ab/O141ac:H4,O147:H4,O98:H4)
+GCA_059817555	Other_Ecoli	N/A	O126:H27		wzy_O126	H27	-	-	ipaH-stx- = Non-STEC E.coli
+GCA_059817585	Other_Ecoli	N/A	O181:H16		wzy_O181	H16	-	-	ipaH-stx- = Non-STEC E.coli
+GCA_059817615	Other_Ecoli	N/A	O17:H18		wzy_O17/O44,wzx_O17/O77	H18	-	-	ipaH-stx- = Non-STEC E.coli
+GCA_059817645	AM18	-	O17:H18		wzy_O17/O44,wzx_O17/O77	H18	-	-	Strain with cluster specific genes but no stx detected. Detected O and H antigen genes do not match previously known serotypes for this cluster (O141ab/O141ac:H4,O147:H4,O98:H4)
+GCA_059817685	DM8	O17/O77:H41	O17:H41		wzy_O17/O44,wzx_O17/O77	H41	-	-	Strain with cluster specific genes but no stx detected.
+GCA_059817705	Other_Ecoli	N/A	O17:H1		wzy_O17/O44,wzx_O17/O77	H1	-	-	ipaH-stx- = Non-STEC E.coli
+GCA_059817725	Other_Ecoli	N/A	O21:H16		wzy_O21	H16	-	-	ipaH-stx- = Non-STEC E.coli
+GCA_059817735	AM18	-	O17:H18		wzy_O17/O44,wzx_O17/O77	H18	-	-	Strain with cluster specific genes but no stx detected. Detected O and H antigen genes do not match previously known serotypes for this cluster (O141ab/O141ac:H4,O147:H4,O98:H4)
+GCA_059817805	Other_Ecoli	N/A	O86:H30		wzx_O86	H30	-	-	ipaH-stx- = Non-STEC E.coli
+GCA_059817825	Other_Ecoli	N/A	O25:H4		wzy_O25	H4	-	-	ipaH-stx- = Non-STEC E.coli
+GCA_059817865	Other_Ecoli	N/A	O176:H33		wzx_O176	H33	-	-	ipaH-stx- = Non-STEC E.coli
+GCA_059817885	AM18	-	O17:H18		wzy_O17/O44,wzx_O17/O77	H18	-	-	Strain with cluster specific genes but no stx detected. Detected O and H antigen genes do not match previously known serotypes for this cluster (O141ab/O141ac:H4,O147:H4,O98:H4)
+GCA_060466395	Other_Ecoli	N/A	O100:H19		wzy_O100	H19	-	-	ipaH-stx- = Non-STEC E.coli
+GCA_060466415	Other_Ecoli	N/A	-:H51			H51	-	-	ipaH-stx- = Non-STEC E.coli
+GCA_060466475	Other_Ecoli	N/A	O8:H19		wzm_O8	H19	-	-	ipaH-stx- = Non-STEC E.coli
+GCA_060466515	Other_Ecoli	N/A	O8:H2		wzm_O8	H2	-	-	ipaH-stx- = Non-STEC E.coli
+GCA_060466555	Other_Ecoli	N/A	-:H42			H42	-	-	ipaH-stx- = Non-STEC E.coli
+GCA_060466575	Other_Ecoli	N/A	O134:H11		wzy_O134	H11	-	-	ipaH-stx- = Non-STEC E.coli
+GCA_060466615	Other_Ecoli	N/A	O9a/O9:H4		wzt_O9a,wzm_O9	H4	-	-	ipaH-stx- = Non-STEC E.coli
+GCA_060466635	Other_Ecoli	N/A	O15:H11		wzy_O15	H11	-	-	ipaH-stx- = Non-STEC E.coli
+GCA_060466655	Other_Ecoli	N/A	-:H18			H18	-	-	ipaH-stx- = Non-STEC E.coli
+GCA_060466675	B1M121	-	O8:H23		wzm_O8	H23	-	-	Strain with cluster specific genes but no stx detected. Detected O and H antigen genes do not match previously known serotypes for this cluster (O113:H21)
+GCA_060468395	Other_Ecoli	N/A	O100:H25		wzy_O100	H25	-	-	ipaH-stx- = Non-STEC E.coli
+GCA_060468435	B1M100	-	-:H20			H20	-	-	Strain with cluster specific genes but no stx detected. Detected O and H antigen genes do not match previously known serotypes for this cluster (O96:H19)
+GCA_060468455	Other_Ecoli	N/A	O155:H9		wzy_O155	H9	-	-	ipaH-stx- = Non-STEC E.coli
+GCA_060468515	Other_Ecoli	N/A	-:H2			H2	-	-	ipaH-stx- = Non-STEC E.coli
+GCA_060473175	Other_Ecoli	N/A	O116:H20		wzy_O116	H20	-	-	ipaH-stx- = Non-STEC E.coli
+GCA_060473295	Other_Ecoli	N/A	O8:H4		wzm_O8	H4	-	-	ipaH-stx- = Non-STEC E.coli
+GCA_060477535	Other_Ecoli	N/A	O9a/O9:H30		wzt_O9a,wzm_O9	H30	-	-	ipaH-stx- = Non-STEC E.coli
+GCA_060477585	Other_Ecoli	N/A	O1:H19		wzy_O1	H19	-	-	ipaH-stx- = Non-STEC E.coli
+GCA_060477635	Other_Ecoli	N/A	-:H45			H45	-	-	ipaH-stx- = Non-STEC E.coli
+GCA_060477695	Other_Ecoli	N/A	-:H4			H4	-	-	ipaH-stx- = Non-STEC E.coli
+GCA_060477795	Other_Ecoli	N/A	O147:H40		wzy_O147	H40	-	-	ipaH-stx- = Non-STEC E.coli
+GCA_060477875	Other_Ecoli	N/A	O8/O121:H11		wzy_O121,wzm_O8	H11	-	-	ipaH-stx- = Non-STEC E.coli
+GCA_060477895	Other_Ecoli	N/A	O166:H11		wzy_O166	H11	-	-	ipaH-stx- = Non-STEC E.coli
+GCA_060477915	Other_Ecoli	N/A	O30/O8:H28		wzx_O30,wzm_O8	H28	-	-	ipaH-stx- = Non-STEC E.coli
+GCA_060477995	Other_Ecoli	N/A	O53:H32		wzx_O53	H32	-	-	ipaH-stx- = Non-STEC E.coli
+GCA_060480375	Other_Ecoli	N/A	O53:H18		wzx_O53	H18	-	-	ipaH-stx- = Non-STEC E.coli
+GCA_060480495	Other_Ecoli	N/A	O21:H10		wzy_O21	H10	-	-	ipaH-stx- = Non-STEC E.coli
+GCA_060480535	Other_Ecoli	N/A	O53:H12		wzx_O53	H12	-	-	ipaH-stx- = Non-STEC E.coli
+GCA_060480615	Other_Ecoli	N/A	-:H4			H4	-	-	ipaH-stx- = Non-STEC E.coli
+GCA_060481585	Other_Ecoli	N/A	-:H7			H7	-	-	ipaH-stx- = Non-STEC E.coli
+GCA_060481655	Other_Ecoli	N/A	O19:H4		wzy_O19	H4	-	-	ipaH-stx- = Non-STEC E.coli
+GCA_060481755	Other_Ecoli	N/A	O130:H9		wzy_O130	H9	-	-	ipaH-stx- = Non-STEC E.coli
+GCA_060481845	Other_Ecoli	N/A	-:-				-	-	ipaH-stx- = Non-STEC E.coli
+GCA_060481895	Other_Ecoli	N/A	-:-				-	-	ipaH-stx- = Non-STEC E.coli
+GCA_060580075	B2M3	O25:H4	O25:H4		wzy_O25	H4	-	-	Strain with cluster specific genes but no stx detected.
+GCA_060580095	B2M3	O25:H4	O25:H4		wzy_O25	H4	-	-	Strain with cluster specific genes but no stx detected.
+GCA_060580115	Other_Ecoli	N/A	O17:H18		wzy_O17/O44,wzx_O17/O77	H18	-	-	ipaH-stx- = Non-STEC E.coli
+GCA_060580135	Other_Ecoli	N/A	-:H25			H25	-	-	ipaH-stx- = Non-STEC E.coli
+GCA_060580155	Other_Ecoli	N/A	O4:H52		wzy_O4	H52	-	-	ipaH-stx- = Non-STEC E.coli
+GCA_060580195	B2M3	O25:H4	O25:H4		wzy_O25	H4	-	-	Strain with cluster specific genes but no stx detected.
+GCA_060580215	Other_Ecoli	N/A	O27:H14		wzy_O27	H14	-	-	ipaH-stx- = Non-STEC E.coli
+GCA_060580235	Other_Ecoli	N/A	O11:H4		wzx_O11	H4	-	-	ipaH-stx- = Non-STEC E.coli
+GCA_060580255	Other_Ecoli	N/A	O9a/O9:H9		wzt_O9a,wzm_O9	H9	-	-	ipaH-stx- = Non-STEC E.coli
+GCA_060580275	Other_Ecoli	N/A	O101:H10		wzm_O101	H10	-	-	ipaH-stx- = Non-STEC E.coli
+GCA_060580295	Other_Ecoli	N/A	O1:H34		wzy_O1	H34	-	-	ipaH-stx- = Non-STEC E.coli
+GCA_060580315	Other_Ecoli	N/A	-:H19			H19	-	-	ipaH-stx- = Non-STEC E.coli

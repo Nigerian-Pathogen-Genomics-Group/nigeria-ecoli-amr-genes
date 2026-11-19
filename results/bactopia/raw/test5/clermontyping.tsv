@@ -1,0 +1,6 @@
+sample	detected_genes	quadruplex_genes	quadruplex_alleles	phylogroup	mash_group
+GCA_002284675.fna	['ybgD', 'trpA', 'trpBA', 'TspE4.C2', 'arpA']	['+', '-', '-', '+']	[]	B1	B1
+GCA_019583635.fna	['ybgD', 'trpA', 'trpBA', 'arpA']	['+', '-', '-', '-']	[]	A	A
+GCA_059817405.fna	['trpBA', 'chuA', 'aesI']	['-', '+', '-', '-']	['aesI']	F	F
+GCA_060466715.fna	['ybgD', 'trpA', 'trpBA', 'yjaA', 'arpA']	['+', '-', '+', '-']	[]	A	A
+GCA_060580055.fna	['trpA', 'trpBA', 'yjaA', 'arpA']	['+', '-', '+', '-']	[]	A	A
