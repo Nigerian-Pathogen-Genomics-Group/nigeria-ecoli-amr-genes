@@ -1,0 +1,126 @@
+assembly	species_call	species_tool	sequence_type	st_status	st_from_shigapass	phylogroup	phylogroup_mash	phylogroup_note	status	reason
+GCA_002284675.1	Escherichia coli	ECTyper (Mash species ID)	162	perfect	ND	B1	B1		kept	
+GCA_002284685.1	Escherichia coli	ECTyper (Mash species ID)	131	perfect	ND	B2	B2		kept	
+GCA_009729995.1	Shigella sonnei	ECTyper (Mash species ID)	152	perfect	ST152	Unknown	B1	marker call Unknown differs from Mash-based call B1	removed	species call is Shigella sonnei (rule: remove if not Escherichia coli or if Shigella)
+GCA_012273455.1	Shigella flexneri	ECTyper (Mash species ID)	245	perfect	ST245	A	B1	marker call A differs from Mash-based call B1	removed	species call is Shigella flexneri (rule: remove if not Escherichia coli or if Shigella)
+GCA_013364455.1	Shigella flexneri	ECTyper (Mash species ID)	none	no ST: mixed alleles	ST245	A	B1	marker call A differs from Mash-based call B1	removed	species call is Shigella flexneri (rule: remove if not Escherichia coli or if Shigella)
+GCA_013367815.1	Shigella flexneri	ECTyper (Mash species ID)	245	perfect	ST245	A	B1	marker call A differs from Mash-based call B1	removed	species call is Shigella flexneri (rule: remove if not Escherichia coli or if Shigella)
+GCA_013391325.1	Shigella flexneri	ECTyper (Mash species ID)	145	perfect	ST145	A	B1	marker call A differs from Mash-based call B1	removed	species call is Shigella flexneri (rule: remove if not Escherichia coli or if Shigella)
+GCA_013391345.1	Shigella flexneri	ECTyper (Mash species ID)	245	perfect	ST245	A	B1	marker call A differs from Mash-based call B1	removed	species call is Shigella flexneri (rule: remove if not Escherichia coli or if Shigella)
+GCA_019583635.1	Escherichia coli	ECTyper (Mash species ID)	8677	perfect	ND	A	A		kept	
+GCA_019583665.1	Escherichia coli	ECTyper (Mash species ID)	10	perfect	ND	A	A		kept	
+GCA_019583735.1	Escherichia coli	ECTyper (Mash species ID)	8763	perfect	ND	A	A		kept	
+GCA_019583755.1	Escherichia coli	ECTyper (Mash species ID)	165	perfect	ND	A	A		kept	
+GCA_019583815.1	Escherichia coli	ECTyper (Mash species ID)	609	perfect	ND	A	A		kept	
+GCA_019583835.1	Escherichia coli	ECTyper (Mash species ID)	394	perfect	ND	D	D		kept	
+GCA_019583855.1	Escherichia coli	ECTyper (Mash species ID)	9817	perfect	ND	A	A		kept	
+GCA_019583875.1	Escherichia coli	ECTyper (Mash species ID)	165	perfect	ND	A	A		kept	
+GCA_019583965.1	Escherichia coli	ECTyper (Mash species ID)	2456	perfect	ND	A	A		kept	
+GCA_019583995.1	Escherichia coli	ECTyper (Mash species ID)	9897	perfect	ND	A	A		kept	
+GCA_019584095.1	Escherichia coli	ECTyper (Mash species ID)	361	perfect	ND	A	A		kept	
+GCA_019584115.1	Escherichia coli	ECTyper (Mash species ID)	10	perfect	ND	A	A		kept	
+GCA_019584135.1	Escherichia coli	ECTyper (Mash species ID)	1196	perfect	ND	B1	B1		kept	
+GCA_019584345.1	Escherichia coli	ECTyper (Mash species ID)	409	perfect	ND	A	A		kept	
+GCA_019584405.1	Escherichia coli	ECTyper (Mash species ID)	156	perfect	ND	B1	B1		kept	
+GCA_019584445.1	Escherichia coli	ECTyper (Mash species ID)	218	perfect	ND	A	A		kept	
+GCA_019584555.1	Escherichia coli	ECTyper (Mash species ID)	10	perfect	ND	A	A		kept	
+GCA_019584585.1	Escherichia coli	ECTyper (Mash species ID)	540	perfect	ND	A	A		kept	
+GCA_019584645.1	Escherichia coli	ECTyper (Mash species ID)	215	perfect	ND	A	A		kept	
+GCA_019584665.1	Escherichia coli	ECTyper (Mash species ID)	219	perfect	ND	E	E		kept	
+GCA_019584685.1	Escherichia coli	ECTyper (Mash species ID)	9816	perfect	ND	A	A		kept	
+GCA_019584705.1	Escherichia coli	ECTyper (Mash species ID)	398	perfect	ND	A	A		kept	
+GCA_019584715.1	Escherichia coli	ECTyper (Mash species ID)	38	perfect	ND	D	D		kept	
+GCA_019584765.1	Escherichia coli	ECTyper (Mash species ID)	215	perfect	ND	A	A		kept	
+GCA_019584785.1	Escherichia coli	ECTyper (Mash species ID)	450	perfect	ND	A	A		kept	
+GCA_019584795.1	Escherichia coli	ECTyper (Mash species ID)	9815	perfect	ND	A	A		kept	
+GCA_019584825.1	Escherichia coli	ECTyper (Mash species ID)	10	perfect	ND	A	A		kept	
+GCA_019584845.1	Escherichia coli	ECTyper (Mash species ID)	226	perfect	ND	A	A		kept	
+GCA_019584875.1	Escherichia coli	ECTyper (Mash species ID)	5700	perfect	ND	B1	B1		kept	
+GCA_019584965.1	Escherichia coli	ECTyper (Mash species ID)	206	perfect	ND	A	A		kept	
+GCA_019585005.1	Escherichia coli	ECTyper (Mash species ID)	182	perfect	ND	E	E		kept	
+GCA_019585105.1	Escherichia coli	ECTyper (Mash species ID)	167	perfect	ND	A	A		kept	
+GCA_019585115.1	Escherichia coli	ECTyper (Mash species ID)	424	perfect	ND	B1	B1		kept	
+GCA_019585145.1	Escherichia coli	ECTyper (Mash species ID)	1721	perfect	ND	A	A		kept	
+GCA_019585165.1	Escherichia coli	ECTyper (Mash species ID)	216	perfect	ND	A	A		kept	
+GCA_019585205.1	Escherichia coli	ECTyper (Mash species ID)	207	perfect	ND	A	A		kept	
+GCA_019585225.1	Escherichia coli	ECTyper (Mash species ID)	215	perfect	ND	A	A		kept	
+GCA_019585235.1	Escherichia coli	ECTyper (Mash species ID)	10	perfect	ND	A	A		kept	
+GCA_019585245.1	Escherichia coli	ECTyper (Mash species ID)	9428	perfect	ND	A	A		kept	
+GCA_019585285.1	Escherichia coli	ECTyper (Mash species ID)	10	perfect	ND	A	A		kept	
+GCA_019585305.1	Escherichia coli	ECTyper (Mash species ID)	167	perfect	ND	A	A		kept	
+GCA_019585435.1	Escherichia coli	ECTyper (Mash species ID)	424	perfect	ND	B1	B1		kept	
+GCA_019780505.1	Escherichia coli	ECTyper (Mash species ID)	398	perfect	ND	A	A		kept	
+GCA_019780515.1	Escherichia coli	ECTyper (Mash species ID)	541	perfect	ND	A	A		kept	
+GCA_021022845.1	Escherichia coli	ECTyper (Mash species ID)	155	perfect	ND	B1	B1		kept	
+GCA_021022855.1	Escherichia coli	ECTyper (Mash species ID)	9602	perfect	ND	A	A		kept	
+GCA_021022895.1	Escherichia coli	ECTyper (Mash species ID)	206	perfect	ND	A	A		kept	
+GCA_021022945.1	Escherichia coli	ECTyper (Mash species ID)	484	perfect	ND	A	A		kept	
+GCA_021022975.1	Escherichia coli	ECTyper (Mash species ID)	216	perfect	ND	A	A		kept	
+GCA_053232725.1	Escherichia coli	ECTyper (Mash species ID)	2325	perfect	ND	A	A		kept	
+GCA_059817405.1	Escherichia coli	ECTyper (Mash species ID)	457	perfect	ND	F	F		kept	
+GCA_059817425.1	Escherichia coli	ECTyper (Mash species ID)	15670	perfect	ND	E	E		kept	
+GCA_059817435.1	Escherichia coli	ECTyper (Mash species ID)	40	perfect	ND	B1	B1		kept	
+GCA_059817465.1	Escherichia coli	ECTyper (Mash species ID)	131	perfect	ND	B2	B2		kept	
+GCA_059817485.1	Escherichia coli	ECTyper (Mash species ID)	349	perfect	ND	D	D		kept	
+GCA_059817505.1	Escherichia coli	ECTyper (Mash species ID)	3748	perfect	ND	B1	B1		kept	
+GCA_059817525.1	Escherichia coli	ECTyper (Mash species ID)	8746	perfect	ND	D	D		kept	
+GCA_059817555.1	Escherichia coli	ECTyper (Mash species ID)	58	perfect	ND	B1	B1		kept	
+GCA_059817585.1	Escherichia coli	ECTyper (Mash species ID)	3748	perfect	ND	B1	B1		kept	
+GCA_059817615.1	Escherichia coli	ECTyper (Mash species ID)	69	perfect	ND	D	D		kept	
+GCA_059817645.1	Escherichia coli	ECTyper (Mash species ID)	8746	perfect	ND	D	D		kept	
+GCA_059817685.1	Escherichia coli	ECTyper (Mash species ID)	720	perfect	ND	D	D		kept	
+GCA_059817705.1	Escherichia coli	ECTyper (Mash species ID)	501	perfect	ND	D	D		kept	
+GCA_059817725.1	Escherichia coli	ECTyper (Mash species ID)	1312	perfect	ND	A	A		kept	
+GCA_059817735.1	Escherichia coli	ECTyper (Mash species ID)	8746	perfect	ND	D	D		kept	
+GCA_059817805.1	Escherichia coli	ECTyper (Mash species ID)	38	perfect	ND	D	D		kept	
+GCA_059817825.1	Escherichia coli	ECTyper (Mash species ID)	131	perfect	ND	B2	B2		kept	
+GCA_059817865.1	Escherichia coli	ECTyper (Mash species ID)	10	perfect	ND	A	A		kept	
+GCA_059817885.1	Escherichia coli	ECTyper (Mash species ID)	8746	perfect	ND	D	D		kept	
+GCA_060466395.1	Escherichia coli	ECTyper (Mash species ID)	3856	perfect	ND	A	A		kept	
+GCA_060466415.1	Escherichia coli	ECTyper (Mash species ID)	155	perfect	ND	B1	B1		kept	
+GCA_060466475.1	Escherichia coli	ECTyper (Mash species ID)	162	perfect	ND	B1	B1		kept	
+GCA_060466515.1	Escherichia coli	ECTyper (Mash species ID)	8933	perfect	ND	B1	B1		kept	
+GCA_060466555.1	Escherichia coli	ECTyper (Mash species ID)	5180	perfect	ND	B1	B1		kept	
+GCA_060466575.1	Escherichia coli	ECTyper (Mash species ID)	193	perfect	ND	A	A		kept	
+GCA_060466615.1	Escherichia coli	ECTyper (Mash species ID)	11317	perfect	ND	A	A		kept	
+GCA_060466635.1	Escherichia coli	ECTyper (Mash species ID)	1703	perfect	ND	A	A		kept	
+GCA_060466655.1	Escherichia coli	ECTyper (Mash species ID)	746	perfect	ND	A	A		kept	
+GCA_060466675.1	Escherichia coli	ECTyper (Mash species ID)	224	perfect	ND	B1	B1		kept	
+GCA_060466715.1	Escherichia coli	ECTyper (Mash species ID)	361	perfect	ND	A	A		kept	
+GCA_060468395.1	Escherichia coli	ECTyper (Mash species ID)	683	perfect	ND	B1	B1		kept	
+GCA_060468435.1	Escherichia coli	ECTyper (Mash species ID)	155	perfect	ND	B1	B1		kept	
+GCA_060468455.1	Escherichia coli	ECTyper (Mash species ID)	10	perfect	ND	A	A		kept	
+GCA_060468515.1	Escherichia coli	ECTyper (Mash species ID)	165	perfect	ND	A	A		kept	
+GCA_060473175.1	Escherichia coli	ECTyper (Mash species ID)	5204	perfect	ND	A	A		kept	
+GCA_060473295.1	Escherichia coli	ECTyper (Mash species ID)	46	perfect	ND	A	A		kept	
+GCA_060477535.1	Escherichia coli	ECTyper (Mash species ID)	361	perfect	ND	A	A		kept	
+GCA_060477585.1	Escherichia coli	ECTyper (Mash species ID)	8318	perfect	ND	E	E		kept	
+GCA_060477635.1	Escherichia coli	ECTyper (Mash species ID)	3298	perfect	ND	A	A		kept	
+GCA_060477695.1	Escherichia coli	ECTyper (Mash species ID)	46	perfect	ND	A	A		kept	
+GCA_060477795.1	Escherichia coli	ECTyper (Mash species ID)	9602	perfect	ND	A	A		kept	
+GCA_060477875.1	Escherichia coli	ECTyper (Mash species ID)	11666	perfect	ND	A	A		kept	
+GCA_060477895.1	Escherichia coli	ECTyper (Mash species ID)	none	no ST: novel allele combination	ND	A	A		kept	
+GCA_060477915.1	Escherichia coli	ECTyper (Mash species ID)	156	perfect	ND	B1	B1		kept	
+GCA_060477995.1	Escherichia coli	ECTyper (Mash species ID)	9512	perfect	ND	A	A		kept	
+GCA_060480375.1	Escherichia coli	ECTyper (Mash species ID)	15460	perfect	ND	A	B1	marker call A differs from Mash-based call B1	kept	
+GCA_060480495.1	Escherichia coli	ECTyper (Mash species ID)	877	perfect	ND	B1	B1		kept	
+GCA_060480535.1	Escherichia coli	ECTyper (Mash species ID)	3586	perfect	ND	A	A		kept	
+GCA_060480615.1	Escherichia coli	ECTyper (Mash species ID)	5204	perfect	ND	A	A		kept	
+GCA_060481585.1	Escherichia coli	ECTyper (Mash species ID)	1727	perfect	ND	B1	B1		kept	
+GCA_060481655.1	Escherichia coli	ECTyper (Mash species ID)	216	perfect	ND	A	A		kept	
+GCA_060481755.1	Escherichia coli	ECTyper (Mash species ID)	6071	perfect	ND	A	A		kept	
+GCA_060481845.1	Escherichia fergusonii	ECTyper (Mash species ID)	12029	perfect	ND	fergusonii	fergusonii		removed	species call is Escherichia fergusonii (rule: remove if not Escherichia coli or if Shigella)
+GCA_060481895.1	Escherichia fergusonii	ECTyper (Mash species ID)	16672	perfect	ND	fergusonii	fergusonii		removed	species call is Escherichia fergusonii (rule: remove if not Escherichia coli or if Shigella)
+GCA_060580055.1	Escherichia coli	ECTyper (Mash species ID)	617	perfect	ND	A	A		kept	
+GCA_060580075.1	Escherichia coli	ECTyper (Mash species ID)	none	no ST: partial match	ND	B2	B2		kept	
+GCA_060580095.1	Escherichia coli	ECTyper (Mash species ID)	131	perfect	ND	B2	B2		kept	
+GCA_060580115.1	Escherichia coli	ECTyper (Mash species ID)	69	perfect	ND	D	D		kept	
+GCA_060580135.1	Escherichia coli	ECTyper (Mash species ID)	1722	perfect	ND	F	F		kept	
+GCA_060580155.1	Escherichia coli	ECTyper (Mash species ID)	10	perfect	ND	A	A		kept	
+GCA_060580195.1	Escherichia coli	ECTyper (Mash species ID)	131	perfect	ND	B2	B2		kept	
+GCA_060580215.1	Escherichia coli	ECTyper (Mash species ID)	5614	perfect	ND	B1	B1		kept	
+GCA_060580235.1	Escherichia coli	ECTyper (Mash species ID)	93	perfect	ND	D	A	marker call D differs from Mash-based call A	kept	
+GCA_060580255.1	Escherichia coli	ECTyper (Mash species ID)	10	perfect	ND	A	A		kept	
+GCA_060580275.1	Escherichia coli	ECTyper (Mash species ID)	167	perfect	ND	A	A		kept	
+GCA_060580295.1	Escherichia coli	ECTyper (Mash species ID)	354	perfect	ND	F	F		kept	
+GCA_060580315.1	Escherichia coli	ECTyper (Mash species ID)	10955	perfect	ND	B1	B1		kept	

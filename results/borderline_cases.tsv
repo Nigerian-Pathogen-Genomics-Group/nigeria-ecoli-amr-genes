@@ -1,0 +1,6 @@
+assembly	taxon	issue	status_under_rule	decision	reason	decided_by
+GCA_013364455.1	Shigella flexneri	MLST status MIXED (ST -)	removed			
+GCA_060477895.1	Escherichia coli	MLST status NOVEL (ST -)	kept			
+GCA_060480375.1	Escherichia coli	phylogroup disagreement: markers A vs Mash B1	kept			
+GCA_060580075.1	Escherichia coli	MLST status OK (ST -)	kept			
+GCA_060580235.1	Escherichia coli	phylogroup disagreement: markers D vs Mash A	kept			

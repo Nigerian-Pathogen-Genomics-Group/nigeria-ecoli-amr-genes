@@ -1,0 +1,9 @@
+assembly	species_call	reason	shigapass	shigatyper	ipaH_stecfinder	ipaB_shigatyper	stecfinder_cluster	mlst_ST	ST_shigapass	phylogroup_clermontyping
+GCA_009729995.1	Shigella sonnei	species call is Shigella sonnei (rule: remove if not Escherichia coli or if Shigella)	SS	Shigella sonnei, form I	+	+	EIEC/Shigella	152	ST152	Unknown
+GCA_012273455.1	Shigella flexneri	species call is Shigella flexneri (rule: remove if not Escherichia coli or if Shigella)	SF1-5	Shigella flexneri serotype 2b	+	+	EIEC/Shigella	245	ST245	A
+GCA_013364455.1	Shigella flexneri	species call is Shigella flexneri (rule: remove if not Escherichia coli or if Shigella)	SF1-5	Shigella flexneri serotype 2a	+	+	EIEC/Shigella	-	ST245	A
+GCA_013367815.1	Shigella flexneri	species call is Shigella flexneri (rule: remove if not Escherichia coli or if Shigella)	SF1-5	Shigella flexneri serotype 1c (7a)	+	-	EIEC/Shigella	245	ST245	A
+GCA_013391325.1	Shigella flexneri	species call is Shigella flexneri (rule: remove if not Escherichia coli or if Shigella)	SF6	Shigella flexneri serotype 6	+	+	EIEC/Shigella	145	ST145	A
+GCA_013391345.1	Shigella flexneri	species call is Shigella flexneri (rule: remove if not Escherichia coli or if Shigella)	SF1-5	Shigella flexneri serotype 3a	+	+	EIEC/Shigella	245	ST245	A
+GCA_060481845.1	Escherichia fergusonii	species call is Escherichia fergusonii (rule: remove if not Escherichia coli or if Shigella)	Not Shigella/EIEC	Not Shigella or EIEC	-	-	Other_Ecoli	12029	ND	fergusonii
+GCA_060481895.1	Escherichia fergusonii	species call is Escherichia fergusonii (rule: remove if not Escherichia coli or if Shigella)	Not Shigella/EIEC	Not Shigella or EIEC	-	-	Other_Ecoli	16672	ND	fergusonii
