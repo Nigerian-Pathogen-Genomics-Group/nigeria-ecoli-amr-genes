@@ -1,0 +1,6 @@
+FILE	SCHEME	ST	STATUS	SCORE	ALLELES
+GCA_002284675	escherichia	162	PERFECT	100	adk(9);fumC(65);gyrB(5);icd(1);mdh(9);purA(13);recA(6)
+GCA_019583635	escherichia	8677	PERFECT	100	adk(10);fumC(11);gyrB(292);icd(8);mdh(8);purA(18);recA(2)
+GCA_059817405	escherichia	457	PERFECT	100	adk(101);fumC(88);gyrB(97);icd(108);mdh(26);purA(79);recA(2)
+GCA_060466715	escherichia	361	PERFECT	100	adk(10);fumC(99);gyrB(5);icd(91);mdh(8);purA(7);recA(2)
+GCA_060580055	escherichia	617	PERFECT	100	adk(10);fumC(11);gyrB(4);icd(8);mdh(8);purA(13);recA(73)

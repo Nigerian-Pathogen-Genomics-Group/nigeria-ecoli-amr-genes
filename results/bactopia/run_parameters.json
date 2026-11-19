@@ -1,0 +1,17 @@
+{
+  "samples": "samples_all120.txt  (a table with columns: sample, runtype, genome_size, species, r1, r2, se, ont, assembly)",
+  "outdir": "s3://<your-bucket>/bactopia-all120",
+  "ask_merlin": true,
+  "ectyper_verify": false,
+  "amrfinderplus_organism": "Escherichia",
+  "mlst_scheme": "escherichia",
+  "mykrobe_species": "tb",
+  "datasets_cache": "s3://<your-bucket>/bactopia-datasets",
+  "_notes": {
+    "pipeline": "https://github.com/bactopia/bactopia, revision v4.1.0",
+    "config_profile": "docker",
+    "nextflow_syntax_parser": "v2",
+    "test5_run": "same parameters except ectyper_verify=true and samples=samples_test5.txt",
+    "bactopia_dir": "also set explicitly on Seqera Cloud to the pipeline clone path (omitted here, it is specific to the platform)"
+  }
+}

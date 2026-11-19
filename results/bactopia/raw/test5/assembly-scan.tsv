@@ -1,0 +1,6 @@
+sample	total_contig	total_contig_length	max_contig_length	mean_contig_length	median_contig_length	min_contig_length	n50_contig_length	l50_contig_count	num_contig_non_acgtn	contig_percent_a	contig_percent_c	contig_percent_g	contig_percent_t	contig_percent_n	contig_non_acgtn	contigs_greater_1m	contigs_greater_100k	contigs_greater_10k	contigs_greater_1k	percent_contigs_greater_1m	percent_contigs_greater_100k	percent_contigs_greater_10k	percent_contigs_greater_1k
+GCA_002284675	78	4921291	579533	63093	13096	600	193770	8	0	24.64	25.46	25.32	24.58	0.00	0.00	0	17	40	63	0.00	21.79	51.28	80.77
+GCA_019583635	182	4888211	336376	26858	1117	205	128361	14	0	24.57	25.48	25.45	24.49	0.01	0.00	0	19	59	94	0.00	10.44	32.42	51.65
+GCA_059817405	92	5121959	793968	55673	1179	257	282080	5	0	24.73	24.82	25.63	24.83	0.00	0.00	0	14	29	56	0.00	15.22	31.52	60.87
+GCA_060466715	118	4602524	249176	39004	11601	239	107850	13	0	24.66	25.86	25.06	24.42	0.00	0.00	0	15	60	91	0.00	12.71	50.85	77.12
+GCA_060580055	5	4992778	4768329	998555	39675	6199	4768329	1	0	24.60	25.36	25.41	24.64	0.00	0.00	1	2	3	5	20.00	40.00	60.00	100.00
